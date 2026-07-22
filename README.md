@@ -56,5 +56,4 @@ You can try questions such as:
 
 If you run into any issue, please contact:
 
-**Your Name：jiangwei
-**Your UF Email** jiangweiwang@ufl.edu
+**Email** jiangweiwang@ufl.edu
