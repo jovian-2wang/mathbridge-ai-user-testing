@@ -1,0 +1,1320 @@
+{
+  "student_id": "maya",
+  "name": "Maya",
+  "current_topic": "Division as grouping",
+  "sessions": [
+    {
+      "date": "2026-06-19",
+      "topic": "division as grouping",
+      "engagement": "Active",
+      "signals": {
+        "concept": "division as grouping",
+        "misconception": null,
+        "hints_used": "1 hint(s) requested",
+        "engagement": "Active",
+        "next_support": "Ask the student to represent division situations using equal groups and a short equation."
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "What does 12 divided by 6 mean?"
+        },
+        {
+          "role": "assistant",
+          "content": "It can mean 12 objects split into 6 equal groups, or it can mean how many groups of 6 fit into 12. Can you draw one of those meanings?"
+        }
+      ],
+      "mastery_update": {
+        "updated": true,
+        "concept": "division as grouping",
+        "skill": "Word problems",
+        "old_score": 44,
+        "delta": 3,
+        "new_score": 47,
+        "evidence": [
+          "The student connected a division expression to an equal-groups situation.",
+          "The student used one hint.",
+          "The student remained actively engaged."
+        ]
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "topic": "unit rate calculation",
+      "engagement": "Active",
+      "signals": {
+        "concept": "unit rate calculation",
+        "misconception": null,
+        "hints_used": "0 hint(s) requested",
+        "engagement": "Active",
+        "next_support": null
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "A car travels 180 miles in 3 hours. What is the unit rate in miles per hour?"
+        },
+        {
+          "role": "assistant",
+          "content": "To find the unit rate in miles per hour, you divide the total miles by the total hours. So, 180 miles divided by 3 hours equals 60 miles per hour. This means the car travels 60 miles in one hour. Great job working with rates!"
+        }
+      ],
+      "mastery_update": {
+        "updated": false,
+        "reason": "No mastery category matched concept: unit rate calculation"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "topic": "unit rate and division",
+      "engagement": "Active",
+      "signals": {
+        "concept": "unit rate and division",
+        "misconception": null,
+        "hints_used": "0 hint(s) requested",
+        "engagement": "Active",
+        "next_support": null
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "A car travels 180 miles in 3 hours. What is the unit rate in miles per hour?"
+        },
+        {
+          "role": "assistant",
+          "content": "To find the unit rate in miles per hour, you divide the total miles by the total hours. So, 180 miles divided by 3 hours equals 60 miles per hour. This means the car travels 60 miles in one hour. Great job working with rates!"
+        },
+        {
+          "role": "user",
+          "content": "If 5 notebooks cost $15, what is the cost of one notebook?"
+        },
+        {
+          "role": "assistant",
+          "content": "To find the cost of one notebook, divide the total cost by the number of notebooks. So, $15 divided by 5 notebooks equals $3 per notebook. That means each notebook costs $3. Nice work!"
+        }
+      ],
+      "mastery_update": {
+        "updated": false,
+        "reason": "No mastery category matched concept: unit rate and division"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "topic": "simplifying fractions",
+      "engagement": "Active",
+      "signals": {
+        "concept": "simplifying fractions",
+        "misconception": "confusing factors with unrelated numbers; suggesting 16 as a factor of 3 and 45",
+        "hints_used": "2 hint(s) requested",
+        "engagement": "Active",
+        "next_support": "Provide examples of factors for 3 and 45 to guide identification of the greatest common factor"
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "3/45"
+        },
+        {
+          "role": "assistant",
+          "content": "It looks like you wrote 3/45, which is a fraction. Would you like to simplify this fraction or use it in a problem? Let me know how I can help!"
+        },
+        {
+          "role": "user",
+          "content": "Give me a hint for the current problem."
+        },
+        {
+          "role": "assistant",
+          "content": "Sure! To simplify 3/45, try finding the greatest number that divides both 3 and 45 evenly. What number do you think that could be?"
+        },
+        {
+          "role": "user",
+          "content": "Give me a hint for the current problem."
+        },
+        {
+          "role": "assistant",
+          "content": "Great! Think about the factors of 3 and 45. Which number is the biggest factor they both share? That will help you simplify the fraction. Can you find it?"
+        },
+        {
+          "role": "user",
+          "content": "16"
+        },
+        {
+          "role": "assistant",
+          "content": "Nice try! But 16 is not a factor of 3 or 45. Remember, a factor is a number that divides another number exactly with no remainder. Can you think of a smaller number that divides both 3 and 45?"
+        }
+      ],
+      "mastery_update": {
+        "updated": false,
+        "reason": "No mastery category matched concept: simplifying fractions"
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "topic": "unit rate",
+      "engagement": "Active",
+      "signals": {
+        "concept": "unit rate",
+        "misconception": null,
+        "hints_used": "0 support request(s)",
+        "engagement": "Active",
+        "next_support": "Prompt the student to perform the division 4 \u00f7 8 to find the cost per orange and explain their reasoning.",
+        "evidence": [
+          "Student posed a real-world problem involving cost per item, indicating engagement with unit rate concept.",
+          "Assistant asked a guiding question about the operation needed to find the cost per orange, encouraging student reasoning."
+        ],
+        "generated_by": "Student Signal Agent"
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "A store sells 8 oranges for $4. What is the cost per orange?"
+        },
+        {
+          "role": "assistant",
+          "content": "Let's think about what \"cost per orange\" means. If 8 oranges cost $4 total, how can we find the cost for just one orange? What operation would help us find the cost of one orange from the total cost and total number of oranges?",
+          "needs_visual": true,
+          "visual_type": "llm_svg",
+          "visual_data": {
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 360\" width=\"720\" height=\"360\" role=\"img\" aria-label=\"Unit rate tape diagram\">\n  <rect width=\"720\" height=\"360\" fill=\"#ffffff\" />\n  <text x=\"360\" y=\"42\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#1a202c\">Unit Rate Structure</text>\n  <text x=\"360\" y=\"76\" text-anchor=\"middle\" font-size=\"16\" fill=\"#4a5568\">Split the total into equal parts to reason about one part.</text>\n  <rect x=\"110\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"151.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 1</text><rect x=\"200\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"241.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 2</text><rect x=\"290\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"331.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 3</text><rect x=\"380\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"421.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 4</text><rect x=\"470\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"511.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 5</text><rect x=\"560\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"601.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 6</text><text x=\"672\" y=\"182\" text-anchor=\"middle\" font-size=\"26\" fill=\"#1a365d\">...</text>\n  <line x1=\"110\" y1=\"236\" x2=\"642\" y2=\"236\" stroke=\"#2b6cb0\" stroke-width=\"3\" />\n  <text x=\"376.0\" y=\"266\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"700\" fill=\"#2d3748\">Total = $4</text>\n  <text x=\"376.0\" y=\"300\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"700\" fill=\"#dd6b20\">Cost per orange = ?</text>\n  <text x=\"360\" y=\"330\" text-anchor=\"middle\" font-size=\"13\" fill=\"#718096\">Template: showing 6 of 8 equal parts. The visual shows structure without calculating the final answer.</text>\n</svg>",
+            "caption": "A unit-rate tape diagram showing 8 equal parts with a total of $4, prompting the student to find one part."
+          },
+          "reason": "Deterministic unit-rate visual selected for a cost/rate-per-one problem.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "shopping / money",
+            "context_source": "problem scenario",
+            "real_life_context": "shopping / money",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: embedding-first hybrid",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "Used the problem's own shopping / money context instead of forcing a learner-preference context. Learner preferences remain available for examples if the problem becomes abstract. The tutor was given the learner profile, course scope, and live learning state. The visual was selected from a deterministic Grade 6 template for lower latency and more stable demo behavior.",
+            "current_problem": "A store sells 8 oranges for $4. What is the cost per orange?",
+            "learning_state": "Concept: not available; hint level: 0; turn type: new_problem.",
+            "visual_context": "Reliable deterministic visual template used: unit_rate_tape."
+          }
+        }
+      ],
+      "mastery_update": {
+        "updated": true,
+        "concept": "unit rate",
+        "skill": "Unit rates",
+        "old_score": 50,
+        "delta": 3,
+        "new_score": 53,
+        "evidence": [
+          "No clear misconception was detected.",
+          "The student completed the interaction without hints.",
+          "The student showed steady moderate engagement.",
+          "Engagement was smoothed as Moderate (score 0.27).",
+          "Skill matched by embedding with confidence 0.62."
+        ],
+        "match_info": {
+          "method": "embedding",
+          "confidence": 0.619247317314148
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "topic": "unit rate",
+      "engagement": "Moderate",
+      "signals": {
+        "concept": "unit rate",
+        "misconception": "Student incorrectly stated the cost per orange as 2 instead of dividing total cost by number of oranges",
+        "hints_used": "0 support request(s)",
+        "engagement": "Moderate",
+        "next_support": "Prompt the student to divide 4 by 8 and explain why division is the correct operation to find the cost per orange",
+        "evidence": [
+          "Student answered '2' as the cost per orange, which is incorrect given 8 oranges cost $4",
+          "Assistant reminded student to divide total cost by number of oranges to find unit cost",
+          "Student gave a short, incorrect answer without explanation"
+        ],
+        "generated_by": "Student Signal Agent"
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "A store sells 8 oranges for $4. What is the cost per orange?"
+        },
+        {
+          "role": "assistant",
+          "content": "Let's think about what \"cost per orange\" means. If 8 oranges cost $4 total, how can we find the cost for just one orange? What operation would help us find the cost of one orange from the total cost and total number of oranges?",
+          "needs_visual": true,
+          "visual_type": "llm_svg",
+          "visual_data": {
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 360\" width=\"720\" height=\"360\" role=\"img\" aria-label=\"Unit rate tape diagram\">\n  <rect width=\"720\" height=\"360\" fill=\"#ffffff\" />\n  <text x=\"360\" y=\"42\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#1a202c\">Unit Rate Structure</text>\n  <text x=\"360\" y=\"76\" text-anchor=\"middle\" font-size=\"16\" fill=\"#4a5568\">Split the total into equal parts to reason about one part.</text>\n  <rect x=\"110\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"151.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 1</text><rect x=\"200\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"241.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 2</text><rect x=\"290\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"331.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 3</text><rect x=\"380\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"421.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 4</text><rect x=\"470\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"511.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 5</text><rect x=\"560\" y=\"150\" width=\"82\" height=\"52\" rx=\"8\" fill=\"#d9ecff\" stroke=\"#2b6cb0\" stroke-width=\"2\" /><text x=\"601.0\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#1a365d\">Oranges 6</text><text x=\"672\" y=\"182\" text-anchor=\"middle\" font-size=\"26\" fill=\"#1a365d\">...</text>\n  <line x1=\"110\" y1=\"236\" x2=\"642\" y2=\"236\" stroke=\"#2b6cb0\" stroke-width=\"3\" />\n  <text x=\"376.0\" y=\"266\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"700\" fill=\"#2d3748\">Total = $4</text>\n  <text x=\"376.0\" y=\"300\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"700\" fill=\"#dd6b20\">Cost per orange = ?</text>\n  <text x=\"360\" y=\"330\" text-anchor=\"middle\" font-size=\"13\" fill=\"#718096\">Template: showing 6 of 8 equal parts. The visual shows structure without calculating the final answer.</text>\n</svg>",
+            "caption": "A unit-rate tape diagram showing 8 equal parts with a total of $4, prompting the student to find one part."
+          },
+          "reason": "Deterministic unit-rate visual selected for a cost/rate-per-one problem.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "shopping / money",
+            "context_source": "problem scenario",
+            "real_life_context": "shopping / money",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: embedding-first hybrid",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "Used the problem's own shopping / money context instead of forcing a learner-preference context. Learner preferences remain available for examples if the problem becomes abstract. The tutor was given the learner profile, course scope, and live learning state. The visual was selected from a deterministic Grade 6 template for lower latency and more stable demo behavior.",
+            "current_problem": "A store sells 8 oranges for $4. What is the cost per orange?",
+            "learning_state": "Concept: not available; hint level: 0; turn type: new_problem.",
+            "visual_context": "Reliable deterministic visual template used: unit_rate_tape."
+          }
+        },
+        {
+          "role": "user",
+          "content": "2"
+        },
+        {
+          "role": "assistant",
+          "content": "You wrote \"2\" as the cost per orange, but remember the total cost is $4 for 8 oranges. Try dividing the total cost by the number of oranges to find the cost of one orange.",
+          "needs_visual": false,
+          "visual_type": "none",
+          "visual_data": {},
+          "reason": "No new visual is needed for correct-answer confirmation or answer-attempt feedback.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "shopping / money",
+            "context_source": "problem scenario",
+            "real_life_context": "shopping / money",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: skipped_for_answer_attempt",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "Used the problem's own shopping / money context instead of forcing a learner-preference context. Learner preferences remain available for examples if the problem becomes abstract. The tutor was given the learner profile, course scope, and live learning state, and should preserve Socratic flow without forcing personalization.",
+            "current_problem": "A store sells 8 oranges for $4. What is the cost per orange?",
+            "learning_state": "Concept: unit rate; hint level: 1; turn type: response_to_current_problem.",
+            "visual_context": "LLM visual planner fallback available."
+          }
+        }
+      ],
+      "mastery_update": {
+        "updated": true,
+        "concept": "unit rate",
+        "skill": "Unit rates",
+        "old_score": 53,
+        "delta": -0.5,
+        "new_score": 52.5,
+        "evidence": [
+          "A possible misconception was detected.",
+          "The student completed the interaction without hints.",
+          "The student showed steady moderate engagement.",
+          "Engagement was smoothed as Moderate (score 0.28).",
+          "Skill matched by embedding with confidence 0.62."
+        ],
+        "match_info": {
+          "method": "embedding",
+          "confidence": 0.619247317314148
+        }
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "topic": "perimeter of a square",
+      "engagement": "Moderate",
+      "signals": {
+        "concept": "perimeter of a square",
+        "misconception": null,
+        "hints_used": "0 support request(s)",
+        "engagement": "Moderate",
+        "next_support": "Prompt the student to recall the number of sides of a square and guide them to multiply the side length by 4 to find the perimeter.",
+        "evidence": [
+          "Student correctly answered a previous question about the coordinate plane with reasoning.",
+          "Student asked a new question about perimeter without requesting help.",
+          "Student's latest message is a direct question indicating engagement but no detailed reasoning yet."
+        ],
+        "generated_by": "Student Signal Agent"
+      },
+      "chat_history": [
+        {
+          "role": "user",
+          "content": "Find the range of 5, 11, 18, and 20."
+        },
+        {
+          "role": "assistant",
+          "content": "The range is the difference between the greatest and the smallest numbers in a set. Can you first identify the smallest and the greatest numbers in this list?",
+          "needs_visual": true,
+          "visual_type": "llm_svg",
+          "visual_data": {
+            "svg": "<svg width=\"720\" height=\"360\" viewBox=\"0 0 720 360\" xmlns=\"http://www.w3.org/2000/svg\">\n  <style> .label { font: 18px sans-serif; fill: black; } .line { stroke: black; stroke-width: 2; } .highlight { fill: #f4a261; } </style>\n  <!-- Number line -->\n  <line x1=\"60\" y1=\"180\" x2=\"660\" y2=\"180\" class=\"line\" />\n  <!-- Tick marks and labels -->\n  <line x1=\"60\" y1=\"175\" x2=\"60\" y2=\"185\" class=\"line\" />\n  <text x=\"60\" y=\"210\" class=\"label\" text-anchor=\"middle\">5</text>\n  <line x1=\"220\" y1=\"175\" x2=\"220\" y2=\"185\" class=\"line\" />\n  <text x=\"220\" y=\"210\" class=\"label\" text-anchor=\"middle\">11</text>\n  <line x1=\"380\" y1=\"175\" x2=\"380\" y2=\"185\" class=\"line\" />\n  <text x=\"380\" y=\"210\" class=\"label\" text-anchor=\"middle\">18</text>\n  <line x1=\"540\" y1=\"175\" x2=\"540\" y2=\"185\" class=\"line\" />\n  <text x=\"540\" y=\"210\" class=\"label\" text-anchor=\"middle\">20</text>\n\n  <!-- Highlight smallest and greatest -->\n  <circle cx=\"60\" cy=\"180\" r=\"12\" class=\"highlight\" />\n  <circle cx=\"540\" cy=\"180\" r=\"12\" class=\"highlight\" />\n\n  <!-- Labels for smallest and greatest -->\n  <text x=\"60\" y=\"150\" class=\"label\" text-anchor=\"middle\">Smallest</text>\n  <text x=\"540\" y=\"150\" class=\"label\" text-anchor=\"middle\">Greatest</text>\n</svg>",
+            "caption": "Number line showing the smallest (5) and greatest (20) numbers in the set."
+          },
+          "reason": "A number line helps the student visually identify the smallest and greatest numbers to understand the range concept.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "abstract math",
+            "context_source": "learner profile",
+            "real_life_context": "shopping",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: embedding-first hybrid",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "The problem is abstract or underspecified, so the tutor may use the learner's preferred context 'shopping' if it clarifies the math. The tutor was given the learner profile, course scope, and live learning state, and should preserve Socratic flow without forcing personalization.",
+            "current_problem": "Find the range of 5, 11, 18, and 20.",
+            "learning_state": "Concept: not available; hint level: 0; turn type: new_problem.",
+            "visual_context": "LLM visual planner fallback available."
+          }
+        },
+        {
+          "role": "user",
+          "content": "15"
+        },
+        {
+          "role": "assistant",
+          "content": "Correct! The range is 15, which is the difference between the greatest number (20) and the smallest number (5).",
+          "needs_visual": false,
+          "visual_type": "none",
+          "visual_data": {},
+          "reason": "No new visual is needed for correct-answer confirmation or answer-attempt feedback.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "abstract math",
+            "context_source": "learner profile",
+            "real_life_context": "shopping",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: skipped_for_answer_attempt",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "The problem is abstract or underspecified, so the tutor may use the learner's preferred context 'shopping' if it clarifies the math. The tutor was given the learner profile, course scope, and live learning state, and should preserve Socratic flow without forcing personalization.",
+            "current_problem": "Find the range of 5, 11, 18, and 20.",
+            "learning_state": "Concept: fractions; hint level: 1; turn type: response_to_current_problem.",
+            "visual_context": "LLM visual planner fallback available."
+          }
+        },
+        {
+          "role": "user",
+          "content": "Plot the point (2, -3) on a coordinate plane. Is it above or below the x-axis?"
+        },
+        {
+          "role": "assistant",
+          "content": "Let's think about what the coordinates mean. The first number, 2, tells us how far to move right or left, and the second number, -3, tells us how far to move up or down. If you start at the origin (0,0), which direction do you move for the y-coordinate of -3?",
+          "needs_visual": true,
+          "visual_type": "llm_svg",
+          "visual_data": {
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 720 360\" width=\"720\" height=\"360\" role=\"img\" aria-label=\"Coordinate plane diagram\">\n  <rect width=\"720\" height=\"360\" fill=\"#ffffff\" />\n  <text x=\"360\" y=\"34\" text-anchor=\"middle\" font-size=\"24\" font-weight=\"700\" fill=\"#1a202c\">Coordinate Plane</text>\n  <line x1=\"216\" y1=\"46\" x2=\"216\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"46\" x2=\"504\" y2=\"46\" stroke=\"#edf2f7\" /><line x1=\"240\" y1=\"46\" x2=\"240\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"70\" x2=\"504\" y2=\"70\" stroke=\"#edf2f7\" /><line x1=\"264\" y1=\"46\" x2=\"264\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"94\" x2=\"504\" y2=\"94\" stroke=\"#edf2f7\" /><line x1=\"288\" y1=\"46\" x2=\"288\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"118\" x2=\"504\" y2=\"118\" stroke=\"#edf2f7\" /><line x1=\"312\" y1=\"46\" x2=\"312\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"142\" x2=\"504\" y2=\"142\" stroke=\"#edf2f7\" /><line x1=\"336\" y1=\"46\" x2=\"336\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"166\" x2=\"504\" y2=\"166\" stroke=\"#edf2f7\" /><line x1=\"360\" y1=\"46\" x2=\"360\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"190\" x2=\"504\" y2=\"190\" stroke=\"#edf2f7\" /><line x1=\"384\" y1=\"46\" x2=\"384\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"214\" x2=\"504\" y2=\"214\" stroke=\"#edf2f7\" /><line x1=\"408\" y1=\"46\" x2=\"408\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"238\" x2=\"504\" y2=\"238\" stroke=\"#edf2f7\" /><line x1=\"432\" y1=\"46\" x2=\"432\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"262\" x2=\"504\" y2=\"262\" stroke=\"#edf2f7\" /><line x1=\"456\" y1=\"46\" x2=\"456\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"286\" x2=\"504\" y2=\"286\" stroke=\"#edf2f7\" /><line x1=\"480\" y1=\"46\" x2=\"480\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"310\" x2=\"504\" y2=\"310\" stroke=\"#edf2f7\" /><line x1=\"504\" y1=\"46\" x2=\"504\" y2=\"334\" stroke=\"#edf2f7\" /><line x1=\"216\" y1=\"334\" x2=\"504\" y2=\"334\" stroke=\"#edf2f7\" />\n  <line x1=\"216\" y1=\"190\" x2=\"504\" y2=\"190\" stroke=\"#2d3748\" stroke-width=\"2\" />\n  <line x1=\"360\" y1=\"46\" x2=\"360\" y2=\"334\" stroke=\"#2d3748\" stroke-width=\"2\" />\n  <text x=\"510\" y=\"196\" font-size=\"15\" fill=\"#2d3748\">x</text>\n  <text x=\"367\" y=\"42\" font-size=\"15\" fill=\"#2d3748\">y</text>\n  <circle cx=\"408\" cy=\"262\" r=\"7\" fill=\"#dd6b20\" /><text x=\"418\" y=\"252\" font-size=\"14\" font-weight=\"700\" fill=\"#dd6b20\">P1 (2, -3)</text>\n  <text x=\"360\" y=\"342\" text-anchor=\"middle\" font-size=\"13\" fill=\"#718096\">Use x for left/right movement and y for up/down movement.</text>\n</svg>",
+            "caption": "A coordinate-plane template for reasoning about x- and y-values."
+          },
+          "reason": "Deterministic coordinate-plane visual selected for a coordinate problem.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "sports / games",
+            "context_source": "problem scenario",
+            "real_life_context": "sports / games",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: embedding-first hybrid",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "Used the problem's own sports / games context instead of forcing a learner-preference context. Learner preferences remain available for examples if the problem becomes abstract. The tutor was given the learner profile, course scope, and live learning state. The visual was selected from a deterministic Grade 6 template for lower latency and more stable demo behavior.",
+            "current_problem": "Plot the point (2, -3) on a coordinate plane. Is it above or below the x-axis?",
+            "learning_state": "Concept: fractions; hint level: 0; turn type: new_problem.",
+            "visual_context": "Reliable deterministic visual template used: coordinate_plane."
+          }
+        },
+        {
+          "role": "user",
+          "content": "below"
+        },
+        {
+          "role": "assistant",
+          "content": "Correct! The point (2, -3) is below the x-axis because its y-coordinate is negative.",
+          "needs_visual": false,
+          "visual_type": "none",
+          "visual_data": {},
+          "reason": "No new visual is needed for correct-answer confirmation or answer-attempt feedback.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "sports / games",
+            "context_source": "problem scenario",
+            "real_life_context": "sports / games",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: skipped_for_answer_attempt",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "Used the problem's own sports / games context instead of forcing a learner-preference context. Learner preferences remain available for examples if the problem becomes abstract. The tutor was given the learner profile, course scope, and live learning state, and should preserve Socratic flow without forcing personalization.",
+            "current_problem": "Plot the point (2, -3) on a coordinate plane. Is it above or below the x-axis?",
+            "learning_state": "Concept: coordinate plane; hint level: 1; turn type: response_to_current_problem.",
+            "visual_context": "LLM visual planner fallback available."
+          }
+        },
+        {
+          "role": "user",
+          "content": "Find the perimeter of a square with side length 6 inches."
+        },
+        {
+          "role": "assistant",
+          "content": "Let's think about what the perimeter means for a square. How many sides does a square have? If each side is 6 inches long, what would you do to find the total length around the square?",
+          "needs_visual": true,
+          "visual_type": "llm_svg",
+          "visual_data": {
+            "svg": "<svg width=\"720\" height=\"360\" viewBox=\"0 0 720 360\" xmlns=\"http://www.w3.org/2000/svg\">\n  <rect x=\"150\" y=\"90\" width=\"180\" height=\"180\" fill=\"none\" stroke=\"#000\" stroke-width=\"3\" />\n  <line x1=\"150\" y1=\"90\" x2=\"330\" y2=\"90\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" marker-start=\"url(#arrow)\" />\n  <line x1=\"330\" y1=\"90\" x2=\"330\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" marker-start=\"url(#arrow)\" />\n  <line x1=\"330\" y1=\"270\" x2=\"150\" y2=\"270\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" marker-start=\"url(#arrow)\" />\n  <line x1=\"150\" y1=\"270\" x2=\"150\" y2=\"90\" stroke=\"#000\" stroke-width=\"2\" marker-end=\"url(#arrow)\" marker-start=\"url(#arrow)\" />\n  <text x=\"240\" y=\"80\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">6 in</text>\n  <text x=\"340\" y=\"180\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" dominant-baseline=\"middle\" transform=\"rotate(90 340,180)\">6 in</text>\n  <text x=\"240\" y=\"300\" font-family=\"Arial\" font-size=\"20\" fill=\"#000\" text-anchor=\"middle\">Side length = 6 in</text>\n</svg>",
+            "caption": "A square with each side labeled 6 inches to help visualize the perimeter as the total length around all four sides."
+          },
+          "reason": "The student is asked to find the perimeter of a square given the side length. A labeled square diagram helps visualize the four equal sides and supports reasoning about adding all sides.",
+          "reveals_answer": false,
+          "context_used": {
+            "learner_context": "Grade 6, visual, step-by-step, real-life examples",
+            "problem_context": "abstract math",
+            "context_source": "learner profile",
+            "real_life_context": "shopping",
+            "learner_preferences_available": "shopping, food, sports, classroom supplies",
+            "curriculum_context": "Grade 6 \u00b7 Ratios, rates, and fraction reasoning \u00b7 retrieval: embedding-first hybrid",
+            "learning_needs": "word problems, fractions, unit rates",
+            "personalization_decision": "The problem is abstract or underspecified, so the tutor may use the learner's preferred context 'shopping' if it clarifies the math. The tutor was given the learner profile, course scope, and live learning state, and should preserve Socratic flow without forcing personalization.",
+            "current_problem": "Find the perimeter of a square with side length 6 inches.",
+            "learning_state": "Concept: coordinate plane; hint level: 0; turn type: new_problem.",
+            "visual_context": "LLM visual planner fallback available."
+          }
+        }
+      ],
+      "mastery_update": {
+        "updated": false,
+        "reason": "No mastery category matched concept: perimeter of a square",
+        "match_info": {
+          "method": "fallback",
+          "reason": "No skill bucket was similar enough."
+        }
+      }
+    }
+  ],
+  "mastery": {
+    "Fraction comparison": 70,
+    "Equivalent fractions": 62,
+    "Fraction addition": 55,
+    "Dividing fractions": 50,
+    "Word problems": 47,
+    "Unit rates": 52.5
+  },
+  "weekly_summary": {
+    "topics": "perimeter of a square",
+    "what_went_well": "Maya practiced perimeter of a square and used tutoring support to work through the problem.",
+    "needs_support": "No clear misconception was detected in the latest interaction. Continue checking understanding of perimeter of a square with more examples.",
+    "try_at_home": "Prompt the student to recall the number of sides of a square and guide them to multiply the side length by 4 to find the perimeter.",
+    "encouragement": "Great persistence, Maya! Keep encouraging careful reasoning and step-by-step explanations. This summary is based on recent tutoring interactions, not a formal assessment."
+  },
+  "insights": [
+    {
+      "title": "Instructional Suggestion",
+      "body": "Ask Maya to represent division using both equal sharing and how-many-groups interpretations."
+    },
+    {
+      "title": "Practice Suggestion",
+      "body": "Use short real-world word problems before moving to symbolic division expressions."
+    },
+    {
+      "title": "Grouping Suggestion",
+      "body": "Pair Maya with students practicing division meanings and word problem interpretation."
+    }
+  ],
+  "current_signals": {
+    "concept": "fractions",
+    "misconception": "\u2014",
+    "hints_used": "0 support request(s)",
+    "engagement": "Moderate",
+    "next_support": "Prompt the student to recall the number of sides of a square and guide them to multiply the side length by 4 to find the perimeter.",
+    "raw_engagement": "Moderate",
+    "engagement_score": 0.35
+  },
+  "signals_history": [
+    {
+      "timestamp": "2026-06-19T15:00:00",
+      "concept": "division as grouping",
+      "misconception": null,
+      "hints_used": "1 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Ask the student to represent division situations using equal groups and a short equation."
+    },
+    {
+      "timestamp": "2026-06-19T21:04:19",
+      "concept": "unit rate calculation",
+      "misconception": null,
+      "hints_used": "0 hint(s) requested",
+      "engagement": "Active",
+      "next_support": null
+    },
+    {
+      "timestamp": "2026-06-19T21:04:48",
+      "concept": "unit rate and division",
+      "misconception": null,
+      "hints_used": "0 hint(s) requested",
+      "engagement": "Active",
+      "next_support": null
+    },
+    {
+      "timestamp": "2026-06-19T21:37:42",
+      "concept": "percentage calculation",
+      "misconception": null,
+      "hints_used": "1 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "If the student struggles with multiplication, guide them through converting the percentage to a decimal and multiplying step-by-step."
+    },
+    {
+      "timestamp": "2026-06-19T21:38:11",
+      "concept": "percentage calculation",
+      "misconception": "incorrect multiplication of percentage (30 \u00d7 0.40 \u2260 13)",
+      "hints_used": "2 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Provide a step-by-step multiplication example or use a visual representation to reinforce understanding of percentage as a fraction of 100."
+    },
+    {
+      "timestamp": "2026-06-19T21:38:17",
+      "concept": "percentage calculation",
+      "misconception": "incorrect multiplication of decimal and whole number",
+      "hints_used": "1 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Provide a step-by-step multiplication example to reinforce decimal multiplication"
+    },
+    {
+      "timestamp": "2026-06-19T21:38:21",
+      "concept": "percentage multiplication",
+      "misconception": "difficulty converting percentage to decimal and multiplying",
+      "hints_used": "1 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Provide additional practice problems converting percentages to decimals and multiplying"
+    },
+    {
+      "timestamp": "2026-06-20T18:17:11",
+      "concept": "fractions",
+      "misconception": null,
+      "hints_used": 0,
+      "engagement": "Active",
+      "next_support": "Ask the student if they want to simplify the fraction or apply it in a problem to guide next steps"
+    },
+    {
+      "timestamp": "2026-06-20T18:17:21",
+      "concept": "simplifying fractions",
+      "misconception": null,
+      "hints_used": "1 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Provide step-by-step guidance on finding the greatest common divisor (GCD) to simplify the fraction."
+    },
+    {
+      "timestamp": "2026-06-20T18:17:26",
+      "concept": "simplifying fractions",
+      "misconception": null,
+      "hints_used": 2,
+      "engagement": "Active",
+      "next_support": "Encourage the student to identify the greatest common divisor and divide numerator and denominator by it."
+    },
+    {
+      "timestamp": "2026-06-20T18:17:32",
+      "concept": "simplifying fractions",
+      "misconception": "confusing factors with unrelated numbers; suggesting 16 as a factor of 3 and 45",
+      "hints_used": "2 hint(s) requested",
+      "engagement": "Active",
+      "next_support": "Provide examples of factors for 3 and 45 to guide identification of the greatest common factor"
+    },
+    {
+      "timestamp": "2026-06-29T12:22:14",
+      "concept": "ratio reasoning",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Ask the student to write the ratio of flour to milk using the numbers given and explain their reasoning.",
+      "evidence": [
+        "Student posed a ratio problem and responded to the assistant's guiding question about the meaning of the ratio.",
+        "No support requests were made, indicating the student is engaging with the problem actively."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T12:22:38",
+      "concept": "ratio reasoning",
+      "misconception": null,
+      "hints_used": "1 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to write the ratio as a fraction and explain what it represents in the context of the problem.",
+      "evidence": [
+        "Student requested a hint but did not ask for the answer, showing willingness to engage.",
+        "Student responded to the assistant's prompt about writing the ratio as a fraction."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T12:23:13",
+      "concept": "ratio reasoning",
+      "misconception": null,
+      "hints_used": "2 support request(s)",
+      "engagement": "Active",
+      "next_support": "Guide the student to interpret the fraction 2/3 as a ratio and explain what it means in terms of the quantities of flour and milk.",
+      "evidence": [
+        "Student requested a hint and then asked for help with the next step without wanting the final answer.",
+        "Student engaged with the assistant's prompts about writing the ratio as a fraction and simplifying or interpreting it."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T12:24:18",
+      "concept": "area of triangles",
+      "misconception": null,
+      "hints_used": "2 support request(s)",
+      "engagement": "Active",
+      "next_support": "Prompt the student to recall and apply the formula for the area of a triangle using the given base and height.",
+      "evidence": [
+        "Student shifted from ratio reasoning to a new problem about the area of a triangle.",
+        "Student asked for help without requesting the final answer, indicating active engagement.",
+        "Assistant prompted the student to recall the formula and think about the relationship between base, height, and area."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T12:24:53",
+      "concept": "area of triangles",
+      "misconception": null,
+      "hints_used": "3 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to substitute the given base and height values into the area formula and calculate the area step-by-step.",
+      "evidence": [
+        "Student requested multiple hints but explicitly asked not to receive the final answer.",
+        "Student engaged with the assistant's prompts about the formula for the area of a triangle and substituting values.",
+        "Student shifted focus from ratio reasoning to area of triangles and actively sought guidance."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T13:17:14",
+      "concept": "volume of rectangular prisms",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Prompt the student to multiply length, width, and height to find the volume and explain their reasoning.",
+      "evidence": [
+        "Student initiated the problem by stating the dimensions and asking for the volume.",
+        "Assistant engaged the student by asking how length, width, and height relate to volume and what operation combines them."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T13:18:56",
+      "concept": "volume of rectangular prisms",
+      "misconception": null,
+      "hints_used": "1 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to write the multiplication expression for volume using the given dimensions and then calculate the product.",
+      "evidence": [
+        "Student asked for help to take the next step without receiving the final answer.",
+        "Assistant guided the student to write the multiplication expression using length, width, and height.",
+        "Student engaged by responding to the assistant's prompt and requesting a scaffolded next step."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-06-29T13:20:11",
+      "concept": "ratio reasoning",
+      "misconception": null,
+      "hints_used": "3 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to write the ratio in the form 'x:y' using the quantities identified and explain what the ratio represents.",
+      "evidence": [
+        "Student correctly defined ratio and gave an example with red and blue balls.",
+        "Student requested help to take the next step without receiving the final answer.",
+        "Student asked for a hint but explicitly requested not to be given the final answer."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-09T17:55:55",
+      "concept": "division reasoning",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Prompt the student to explain the meaning of the division expression before calculating."
+    },
+    {
+      "timestamp": "2026-07-10T14:17:30",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Ask the student to explain the key quantities in the current problem before solving."
+    },
+    {
+      "timestamp": "2026-07-10T15:43:46",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Ask the student to explain the key quantities in the current problem before solving."
+    },
+    {
+      "timestamp": "2026-07-10T15:54:10",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Ask the student to explain the key quantities in the current problem before solving."
+    },
+    {
+      "timestamp": "2026-07-10T16:05:18",
+      "concept": "fraction-decimal equivalence",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Ask the student to provide more examples of fractions and their decimal equivalents and explain why they are equal.",
+      "evidence": [
+        "Student states that fractions and decimals can represent the same value with examples.",
+        "Student provides specific fraction-decimal pairs (1/2 = 0.5, 3/4 = 0.75)."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-10T16:46:30",
+      "concept": "fraction-decimal equivalence",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to perform the division step-by-step and explain each step to reinforce understanding.",
+      "evidence": [
+        "Student requests to convert 3/4 to a decimal, indicating engagement with the concept.",
+        "Assistant prompts the student to divide 3 by 4 step-by-step, encouraging active problem solving."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-10T16:48:19",
+      "concept": "fraction-decimal equivalence",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to perform the division step-by-step and explain each step to reinforce understanding.",
+      "evidence": [
+        "Student states that fractions and decimals can represent the same value with examples.",
+        "Student provides specific fraction-decimal pairs (1/2 = 0.5, 3/4 = 0.75)."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-10T17:26:11",
+      "concept": "fraction-decimal equivalence",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Encourage the student to perform the division step-by-step and explain each step to reinforce understanding.",
+      "evidence": [
+        "Student repeats the request to convert 3/4 to a decimal, showing focus on the task.",
+        "Assistant prompts the student to divide 3 by 4 using long division or a calculator, encouraging active problem solving."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-10T17:26:43",
+      "concept": "fraction-decimal equivalence",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Ask the student to explain the key quantities in the current problem before solving."
+    },
+    {
+      "timestamp": "2026-07-10T17:27:22",
+      "concept": "adding fractions with unlike denominators",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Guide the student to find a common denominator and rewrite each fraction before adding.",
+      "evidence": [
+        "Student asks 'What is 2/3 + 1/6?\u2019, indicating engagement with fraction addition.",
+        "Assistant prompts about finding a common denominator, showing the focus on adding fractions with unlike denominators."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-11T13:17:11",
+      "concept": "adding fractions with unlike denominators",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Active",
+      "next_support": "Guide the student to find a common denominator and rewrite each fraction before adding.",
+      "evidence": [
+        "Student asks 'What is 2/3 + 1/6?', indicating engagement with fraction addition.",
+        "Assistant prompts about finding a common denominator, showing the focus on adding fractions with unlike denominators."
+      ],
+      "generated_by": "Student Signal Agent"
+    },
+    {
+      "timestamp": "2026-07-11T13:17:24",
+      "concept": "adding fractions with unlike denominators",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Ask the student to explain the key quantities in the current problem before solving."
+    },
+    {
+      "timestamp": "2026-07-13T10:51:28",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T10:51:36",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T10:52:16",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T10:52:28",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T10:52:40",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:02:28",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:11:20",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:11:34",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:11:41",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:12:05",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:12:20",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:12:28",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:13:11",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:13:24",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:13:33",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:14:42",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-13T11:18:06",
+      "concept": "New math topic",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-14T11:06:38",
+      "concept": "coordinate plane",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Low",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-14T11:07:02",
+      "concept": "coordinate plane",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step."
+    },
+    {
+      "timestamp": "2026-07-17T11:46:22",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Low",
+      "engagement_score": 0.012
+    },
+    {
+      "timestamp": "2026-07-17T11:46:38",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Low",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": -0.46
+    },
+    {
+      "timestamp": "2026-07-17T11:47:43",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": -0.19
+    },
+    {
+      "timestamp": "2026-07-17T12:05:43",
+      "concept": "ratio reasoning",
+      "misconception": "Confuses the number of groups in the ratio with the total number of items",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Guide the student to divide 40 by 5 explicitly and then multiply the quotient by 3 to find the number of red balls",
+      "evidence": [
+        "Student incorrectly answered 18 and 16 for the number of red balls",
+        "Student requested multiple hints but did not apply the division step correctly",
+        "Tutor repeatedly prompts student to divide 40 by 5 to find the number of groups"
+      ],
+      "generated_by": "Student Signal Agent",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.08
+    },
+    {
+      "timestamp": "2026-07-17T12:28:18",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Low",
+      "engagement_score": 0.147
+    },
+    {
+      "timestamp": "2026-07-17T12:28:56",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": -0.19
+    },
+    {
+      "timestamp": "2026-07-17T12:29:01",
+      "concept": "fractions",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.012
+    },
+    {
+      "timestamp": "2026-07-17T16:11:02",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Low",
+      "engagement_score": 0.08
+    },
+    {
+      "timestamp": "2026-07-17T16:11:26",
+      "concept": "unit rate",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to perform the division 4 \u00f7 8 to find the cost per orange and explain their reasoning.",
+      "evidence": [
+        "Student posed a real-world problem involving cost per item, indicating engagement with unit rate concept.",
+        "Assistant asked a guiding question about the operation needed to find the cost per orange, encouraging student reasoning."
+      ],
+      "generated_by": "Student Signal Agent",
+      "raw_engagement": "Active",
+      "engagement_score": -0.393
+    },
+    {
+      "timestamp": "2026-07-17T16:11:45",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to perform the division 4 \u00f7 8 to find the cost per orange and explain their reasoning.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.273
+    },
+    {
+      "timestamp": "2026-07-17T16:11:55",
+      "concept": "unit rate",
+      "misconception": "Student incorrectly stated the cost per orange as 2 instead of dividing total cost by number of oranges",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to divide 4 by 8 and explain why division is the correct operation to find the cost per orange",
+      "evidence": [
+        "Student answered '2' as the cost per orange, which is incorrect given 8 oranges cost $4",
+        "Assistant reminded student to divide total cost by number of oranges to find unit cost",
+        "Student gave a short, incorrect answer without explanation"
+      ],
+      "generated_by": "Student Signal Agent",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.242
+    },
+    {
+      "timestamp": "2026-07-17T16:14:45",
+      "concept": "unit rates",
+      "misconception": "Student incorrectly stated the cost per orange as 2 instead of dividing total cost by number of oranges",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to divide 4 by 8 and explain why division is the correct operation to find the cost per orange",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.277
+    },
+    {
+      "timestamp": "2026-07-17T17:07:46",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Low",
+      "engagement_score": 0.447
+    },
+    {
+      "timestamp": "2026-07-17T17:08:31",
+      "concept": "ratios",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": -0.19
+    },
+    {
+      "timestamp": "2026-07-17T17:09:18",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.012
+    },
+    {
+      "timestamp": "2026-07-17T17:09:35",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "2 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.08
+    },
+    {
+      "timestamp": "2026-07-17T17:09:47",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.147
+    },
+    {
+      "timestamp": "2026-07-17T17:10:15",
+      "concept": "unit rates",
+      "misconception": "\u2014",
+      "hints_used": "3 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.35
+    },
+    {
+      "timestamp": "2026-07-17T21:34:19",
+      "concept": "fractions",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Low",
+      "engagement_score": 0.35
+    },
+    {
+      "timestamp": "2026-07-17T21:34:38",
+      "concept": "fractions",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": -0.19
+    },
+    {
+      "timestamp": "2026-07-17T21:34:43",
+      "concept": "coordinate plane",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.012
+    },
+    {
+      "timestamp": "2026-07-17T21:35:08",
+      "concept": "coordinate plane",
+      "misconception": "\u2014",
+      "hints_used": "1 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.08
+    },
+    {
+      "timestamp": "2026-07-17T21:35:16",
+      "concept": "fractions",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Use the tutor's latest question as the next support step.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.147
+    },
+    {
+      "timestamp": "2026-07-17T21:35:25",
+      "concept": "perimeter of a square",
+      "misconception": null,
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to recall the number of sides of a square and guide them to multiply the side length by 4 to find the perimeter.",
+      "evidence": [
+        "Student correctly answered a previous question about the coordinate plane with reasoning.",
+        "Student asked a new question about perimeter without requesting help.",
+        "Student's latest message is a direct question indicating engagement but no detailed reasoning yet."
+      ],
+      "generated_by": "Student Signal Agent",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.35
+    },
+    {
+      "timestamp": "2026-07-17T21:35:39",
+      "concept": "fractions",
+      "misconception": "\u2014",
+      "hints_used": "0 support request(s)",
+      "engagement": "Moderate",
+      "next_support": "Prompt the student to recall the number of sides of a square and guide them to multiply the side length by 4 to find the perimeter.",
+      "raw_engagement": "Moderate",
+      "engagement_score": 0.35
+    }
+  ],
+  "mastery_history": [
+    {
+      "timestamp": "2026-06-19T15:00:05",
+      "concept": "division as grouping",
+      "skill": "Word problems",
+      "old_score": 44,
+      "delta": 3,
+      "new_score": 47,
+      "evidence": [
+        "The student connected a division expression to an equal-groups situation.",
+        "The student used one hint.",
+        "The student remained actively engaged."
+      ]
+    },
+    {
+      "timestamp": "2026-07-17T16:11:26",
+      "concept": "unit rate",
+      "skill": "Unit rates",
+      "old_score": 50,
+      "delta": 3,
+      "new_score": 53,
+      "evidence": [
+        "No clear misconception was detected.",
+        "The student completed the interaction without hints.",
+        "The student showed steady moderate engagement.",
+        "Engagement was smoothed as Moderate (score 0.27).",
+        "Skill matched by embedding with confidence 0.62."
+      ],
+      "match_info": {
+        "method": "embedding",
+        "confidence": 0.619247317314148
+      }
+    },
+    {
+      "timestamp": "2026-07-17T16:11:55",
+      "concept": "unit rate",
+      "skill": "Unit rates",
+      "old_score": 53,
+      "delta": -0.5,
+      "new_score": 52.5,
+      "evidence": [
+        "A possible misconception was detected.",
+        "The student completed the interaction without hints.",
+        "The student showed steady moderate engagement.",
+        "Engagement was smoothed as Moderate (score 0.28).",
+        "Skill matched by embedding with confidence 0.62."
+      ],
+      "match_info": {
+        "method": "embedding",
+        "confidence": 0.619247317314148
+      }
+    }
+  ]
+}

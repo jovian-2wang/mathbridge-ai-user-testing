@@ -1,0 +1,69 @@
+{
+  "alex": {
+    "password": "1234",
+    "role": "Student",
+    "display_name": "Alex",
+    "memory_file": "alex.json"
+  },
+  "liam": {
+    "password": "1234",
+    "role": "Student",
+    "display_name": "Liam",
+    "memory_file": "liam.json"
+  },
+  "maya": {
+    "password": "1234",
+    "role": "Student",
+    "display_name": "Maya",
+    "memory_file": "maya.json"
+  },
+  "teacher_demo": {
+    "password": "1234",
+    "role": "Teacher",
+    "display_name": "Demo Teacher"
+  },
+  "alex_parent": {
+    "password": "1234",
+    "role": "Parent",
+    "display_name": "Alex's Parent",
+    "children": [
+      {
+        "name": "Alex",
+        "memory_file": "alex.json"
+      }
+    ]
+  },
+  "liam_parent": {
+    "password": "1234",
+    "role": "Parent",
+    "display_name": "Liam's Parent",
+    "children": [
+      {
+        "name": "Liam",
+        "memory_file": "liam.json"
+      }
+    ]
+  },
+  "maya_parent": {
+    "password": "1234",
+    "role": "Parent",
+    "display_name": "Maya's Parent",
+    "children": [
+      {
+        "name": "Maya",
+        "memory_file": "maya.json"
+      }
+    ]
+  },
+  "parent_demo": {
+    "password": "1234",
+    "role": "Parent",
+    "display_name": "Alex's Parent",
+    "children": [
+      {
+        "name": "Alex",
+        "memory_file": "alex.json"
+      }
+    ]
+  }
+}

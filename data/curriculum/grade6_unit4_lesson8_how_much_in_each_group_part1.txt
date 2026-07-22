@@ -1,0 +1,190 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 8: How Much in Each Group? Part 1
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-8/index.html
+
+======================================================================
+
+Lesson 8
+How Much in Each Group? (Part 1)
+Let’s look at division problems that help us find the size of one group.
+Learning Targets:
+I can tell when a question is asking for the amount in one group.
+I can use diagrams and multiplication and division equations to represent and answer “how much in each group?” questions.
+8.1
+Inventing a Scenario
+Think of a situation with a question that can be represented by
+12 ÷ 2/3 = \,?
+Write a description of that situation and the question.
+Trade descriptions with your partner, and answer your partner’s question.
+8.2
+How Much in One Batch?
+To make 5 batches of cookies, 10 cups of flour are required. How many cups of flour does each batch require?
+We can write equations and draw a diagram to represent this situation. They help us see that each batch requires 2 cups of flour.
+5\, · {?} = 10
+10 ÷ 5 = {?}
+[Image description: A tape diagram of 5 equal parts with each part labeled with a question mark. Above the diagram is a brace labeled “10 cups," and contains all 5 parts. Underneath the diagram, 5 braces are indicated where each brace conatins 1 equal part. The first of the braces underneath the diagram is labeled “1 batch.”]
+For each question, write a multiplication equation and a division equation, draw a diagram, and answer the question.
+To make 4 batches of cupcakes, it takes 6 cups of flour. How many cups of flour are needed for 1 batch?
+To make
+1/2
+batch of rolls, it takes
+5/4
+cups of flour. How many cups of flour are needed for 1 batch?
+Two cups of flour make
+2/3
+batch of bread. How many cups of flour make 1 batch?
+8.3
+One Container and One Section of Highway
+Here are three tape diagrams and three descriptions of situations that include questions.
+Match a diagram to each situation, then use the diagram to help you answer the question. Next, write multiplication and division equations to represent each situation.
+[Image description: Diagram showing cups and number of containers]
+Tyler poured 15 cups of water into 2 equal-sized bottles and filled each bottle. How much water was in each bottle?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+Kiran poured 15 cups of water into equal-sized pitchers and filled
+11/2
+pitchers. How much water was in the full pitcher?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+It takes 15 cups of water to fill
+1/3
+pail. How much water is needed to fill 1 pail?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+Here are three more diagrams and situations. Match a diagram to each situation, and use the diagram to help you answer the question. Next, write multiplication and division equations to represent each situation.
+[Image description: Diagram showing sections and miles]
+Priya’s class has adopted two equal sections of a highway to keep clean. The combined length is
+3/4
+of a mile. How long is each section?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+Lin’s class has also adopted some sections of highway to keep clean. If
+11/2
+sections are
+3/4
+mile long, how long is each section?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+A school has adopted a section of highway to keep clean. If
+1/3
+of the section is
+3/4
+mile long, how long is the section?
+Diagram:
+Answer:
+Multiplication equation:
+Division equation:
+Are you ready for more?
+To make a Cantor ternary set:
+Start with a tape diagram of length 1 unit. This is step 1.
+Color in the middle third of the tape diagram. This is step 2.
+Do the same to each remaining segment that is not colored in. This is step 3.
+Keep repeating this process.
+[Image description: Cantor ternary set]
+How much of the diagram is colored in after step 2? Step 3? Step 10?
+If you continue this process, how much of the tape diagram will you color?
+Can you construct a process that will give you a similar kind of object? For example, color the first fifth instead of the middle third of each strip.
+Lesson 8 Summary
+Sometimes we know the amount for
+multiple
+groups, but we don’t know how much is in one group. We can use division to find out.
+For example: If 5 people share
+8 1/2
+pounds of cherries equally, how many pounds of cherries does each person get?
+[Image description: A diagram showing how many pounds of cherries 5 people get]
+We can represent this situation as a multiplication and a division:
+5\, · {?} = 81/2
+8 1/2 ÷ 5 = {?}
+81/2 ÷ 5
+can be written as
+17/2 ÷ 5
+. Dividing by 5 is equivalent to multiplying by
+1/5
+, and
+17/2 · 1/5 =17/10
+. This means each person gets
+17/10
+pounds.
+Other times, we know the amount for
+a fraction
+of a group, but we don’t know the size of one whole group. We can also use division to find out.
+For example: Jada poured 5 cups of iced tea in a pitcher and filled
+2/3
+of the pitcher. How many cups of iced tea fill the entire pitcher?
+[Image description: A diagram showing how many cups fit in a pitcher]
+We can represent this situation as a multiplication and a division:
+2/3 · {?} = 5
+5 ÷ 2/3 = {?}
+The diagram can help us reason about the answer. If
+2/3
+of a pitcher is 5 cups, then
+1/3
+of a pitcher is half of 5, which is
+5/2
+. Because there are 3 thirds in 1 whole, there would be
+(3 · 5/2)
+or
+15/2
+cups in one whole pitcher. We can check our answer by multiplying:
+2/3 · 15/2 = 30/6
+, and
+30/6 = 5
+.
+Notice that in the first example, the number of groups is greater than 1 (5 people) and in the second, the number of groups is less than 1 (
+2/3
+of a pitcher), but the division and multiplication equations for both have the same structures.
+Lesson 8 Practice Problems
+For each scenario, use the given tape diagram to help you answer the question. Mark up and label the diagrams as needed.
+Mai has picked 1 cup of strawberries for a cake, which is enough for
+3/4
+of the cake. How many cups does she need for the whole cake?
+[Image description: A tape diagram of four equal parts. A brace is drawn from the beginning of the first equal part to the end of the third part.]
+Priya has picked
+11/2
+cups of raspberries, which is enough for
+3/4
+of a cake. How many cups does she need for the whole cake?
+[Image description: A tape diagram of four equal parts. A brace is drawn from the beginning of the first equal part to the end of the third part.]
+Tyler painted
+9/2
+square yards of wall area with 3 gallons of paint. How many gallons of paint does it take to paint each square yard of wall?
+Write multiplication and division equations to represent the situation.
+Draw a diagram to represent the situation and to answer the question.
+After walking
+1/4
+mile from home, Han is
+1/3
+of his way to school. What is the distance between his home and school?
+Write multiplication and division equations to represent this situation.
+Use the given diagram to help you answer the question. Mark up and label it as needed.
+[Image description: A tape diagram of three equal parts. A brace is drawn from the beginning of the first equal part to the end of that part.]
+Here is a division equation:
+4/5 ÷ 2/3 = {?}
+Write a multiplication equation that corresponds to the division equation.
+Draw a diagram to represent and answer the question.
+A set of books that are each 1.5 inches wide are being organized on a bookshelf that is 36 inches wide. How many books can fit on the shelf?
+Write a multiplication equation and a division equation to represent this question.
+Find the answer. Draw a diagram, if needed.
+Use the multiplication equation to check your answer.
+Without calculating, order the expressions based on their values, from smallest to largest.
+56÷8
+56÷8,000,000
+56÷ 0.000008
+Explain how you decided the order of the three expressions.
+Find a number
+n
+so that
+56÷ n
+is greater than 1 but less than 7.

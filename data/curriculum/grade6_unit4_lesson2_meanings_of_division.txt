@@ -1,0 +1,125 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 2: Meanings of Division
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-2/index.html
+
+======================================================================
+
+Lesson 2
+Meanings of Division
+Let’s explore ways to think about division.
+Learning Targets:
+I can explain how multiplication and division are related.
+I can explain two ways of interpreting a division expression such as
+27 ÷ 3
+.
+When given a division equation, I can write a multiplication equation that represents the same situation.
+2.1
+A Division Expression
+Here is an expression:
+20÷ 4
+.
+What are some ways to think about this expression? Describe at least two meanings you think it could have.
+2.2
+Bags of Almonds
+A baker has 12 pounds of almonds. She puts them in bags, so that each bag has the same weight.
+Clare and Tyler drew diagrams and wrote equations to show how they were thinking about
+12 ÷ 6
+.
+[Image description: “”]
+How do you think Clare and Tyler thought about
+12 ÷ 6
+? Explain what each diagram and each part of each equation (especially the missing number) might mean in the context of the bags of almonds.
+Pause here for a class discussion.
+Explain what each division expression could mean in the context of the bags of almonds. Then draw a diagram and write a multiplication equation to show how you are thinking about the expression.
+12 ÷ 4
+12 ÷ 2
+12 ÷ 1/2
+Are you ready for more?
+A loaf of bread is cut into slices.
+If each slice is
+1/2
+of a loaf, how many slices are there?
+If each slice is
+1/5
+of a loaf, how many slices are there?
+What happens to the number of slices as each slice gets smaller?
+Interpret the meaning of dividing by 0 in the context of slicing bread.
+Lesson 2 Summary
+Suppose 24 bagels are being distributed into boxes. The expression
+24 ÷ 3
+could be understood in two ways:
+24 bagels are distributed equally into 3 boxes, as represented by this diagram:
+[Image description: The number 24 is broken up into 3 eight pieces]
+24 bagels are distributed into boxes, 3 bagels in each box, as represented by this diagram:
+[Image description: The number 24 is broken up into eight 3 pieces]
+In both interpretations, the quotient is the same (
+24 ÷ 3 = 8
+), but it has different meanings in each case. In the first case, the 8 represents the number of bagels in each of the 3 boxes. In the second, it represents the number of boxes that were formed with 3 bagels in each box.
+These two ways of seeing division are related to how 3, 8, and 24 are related in multiplication. Both
+3 · 8
+and
+8 · 3
+equal 24.
+3 · 8 =24
+can be read as “3 groups of 8 make 24.”
+8 · 3 = 24
+can be read as “8 groups of 3 make 24.”
+If 3 and 24 are the only numbers given, the multiplication equations would be:
+3 · {?} =24
+{?} · 3 =24
+In both cases, the division
+24 ÷ 3
+can be used to find the value of the “?” But now we see that it can be interpreted in more than one way, because the “?” can refer to
+the size of a group
+(as in “3 groups of what number make 24?”), or to
+the number of groups
+(as in “How many groups of 3 make 24?”).
+Lesson 2 Practice Problems
+Twenty pounds of strawberries are being shared equally by a group of friends. The equation
+20 ÷ 5=4
+represents the division of strawberries.
+a. If the 5 represents the number of people, what does the 4 represent?
+b. If the 5 represents the pounds of strawberries per person, what does the 4 represent?
+A sixth-grade science club needs
+$
+180 to pay for the tickets to a science museum. All tickets cost the same amount.
+What could
+180 ÷ 15
+mean in this context? Describe two interpretations of the expression. Then, find the quotient and explain what it means in each interpretation.
+Write a multiplication equation that corresponds to each division equation.
+a.
+10 ÷ 5 = {?}
+b.
+4.5 ÷ 3 = {?}
+c.
+1/2 ÷ 4 = {?}
+Write a division or multiplication equation that represents each situation. Use a “?” for the unknown quantity.
+2.5 gallons of water are poured into 5 equally sized bottles. How much water is in each bottle?
+A large bucket of 200 golf balls is divided into 4 smaller buckets. How many golf balls are in each small bucket?
+Sixteen socks are put into pairs. How many pairs are there?
+Find a value for
+a
+that makes each statement true.
+a÷6
+is greater than 1
+a÷6
+is equal to 1
+a÷6
+is less than 1
+a÷6
+is equal to a whole number
+Complete the table. Write each percentage as a percent of 1.
+fraction
+decimal
+percentage
+1/4
+0.25
+25% of 1
+0.1
+75% of 1
+1/5
+1.5
+140% of 1
+Jada walks at a speed of 3 miles per hour. Elena walks at a speed of 2.8 miles per hour. If they both begin walking along a walking trail at the same time, how much farther will Jada walk after 3 hours? Explain your reasoning.

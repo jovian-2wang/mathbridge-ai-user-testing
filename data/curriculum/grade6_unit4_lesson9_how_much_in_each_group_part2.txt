@@ -1,0 +1,169 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 9: How Much in Each Group? Part 2
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-9/index.html
+
+======================================================================
+
+Lesson 9
+How Much in Each Group? (Part 2)
+Let’s practice dividing fractions in different situations.
+Learning Targets:
+I can find the amount in one group in different real-world situations.
+9.1
+Number Talk: Greater Than 1 or Less Than 1?
+Decide whether each of the following is greater than 1 or less than 1.
+1/2÷1/4
+1÷3/4
+2/3÷7/8
+27/8÷23/5
+9.2
+Two Water Containers
+[Image description: An image of a rain gauge]
+“Rain Gauge”
+by
+Bidgee
+via
+Wikimedia Commons
+.
+CC BY 3.0
+.
+After looking at these pictures, Lin says, “I see the fraction
+2/5
+.” Jada says, “I see the fraction
+3/4
+.” What quantities are Lin and Jada referring to?
+How many liters of water fit in the water dispenser?
+Write a multiplication equation and a division equation for the question, then find the answer. Draw a diagram, if needed. Check your answer using the multiplication equation.
+9.3
+Amount in One Group
+Write a multiplication equation and a division equation and draw a diagram to represent each situation and question. Then find the answer. Explain your reasoning.
+Jada bought
+31/2
+yards of fabric for
+$
+21. How much did each yard cost?
+4/9
+kilogram of baking soda costs
+$
+2. How much does 1 kilogram of baking soda cost?
+Diego can fill
+11/5
+bottles with 3 liters of water. How many liters of water fill 1 bottle?
+5/4
+gallons of water fill
+5/6
+of a bucket. How many gallons of water fill the entire bucket?
+Are you ready for more?
+The largest sandwich ever made weighed 5,440 pounds. If everyone on Earth shares the sandwich equally, how much would you get? What fraction of a regular sandwich does this represent?
+9.4
+Inventing a Situation
+Think of a situation that involves a question that can be represented by
+1/3÷1/4 = {?}
+Write a description of that situation and the question.
+Trade descriptions with a member of your group.
+Review each other’s description and discuss whether each invented question is an appropriate match for the equation.
+Revise your description or question based on feedback from your partner.
+Find the answer to your question. Explain or show your reasoning. If you get stuck, draw a diagram.
+Lesson 9 Summary
+Sometimes we have to think carefully about how to solve a problem that involves multiplication and division. Diagrams and equations can help us.
+Let’s take this example:
+3/4
+of a pound of rice fills
+2/5
+of a container.
+There are two whole amounts to keep track of: 1 whole pound, and 1 whole container. The equations we write and the diagram we draw depend on what question we are trying to answer. Here are two questions that could be asked:
+How many pounds fill 1 container?
+What fraction of a container does 1 pound fill?
+We can represent and answer the first question (how many pounds fill a whole container) with:
+2/5 · {?} = 3/4
+3/4 ÷ 2/5 = {?}
+[Image description: diagram showing how many pounds fit in the container]
+If
+2/5
+of a container is filled with
+3/4
+pound, then
+1/5
+of a container is filled with half of
+3/4
+, or
+3/8
+, pound. One whole container then has
+5 · 3/8
+(or
+15/8
+) pounds.
+We can represent and answer the second question (what fraction of the container 1 pound fills) with:
+3/4 · {?} = 2/5
+2/5 ÷ 3/4 ={?}
+[Image description: A diagram showing the size of a container]
+If
+3/4
+pound fills
+2/5
+of a container, then
+1/4
+pound fills a third of
+2/5
+, or
+2/15
+, of a container. One whole pound then fills
+4 · 2/15
+(or
+8/15
+) of a container.
+Lesson 9 Practice Problems
+A group of friends is sharing
+21/2
+pounds of berries.
+If each friend received
+5/4
+of a pound of berries, how many friends are sharing the berries?
+If 5 friends are sharing the berries, how many pounds of berries does each friend receive?
+2/5
+kilogram of soil fills
+1/3
+of a container. Can 1 kilogram of soil fit in the container? Explain or show your reasoning.
+After raining for
+3/4
+of an hour, a rain gauge is
+2/5
+filled. If it continues to rain at that rate for 15 more minutes, what fraction of the rain gauge will be filled?
+To help answer this question, Diego wrote the division equation
+3/4÷ 2/5={?}
+. Explain why this equation does
+not
+represent the situation.
+Write a multiplication equation and a division equation that does represent the situation.
+[Image description: An image of a rain gauge]
+“Rain Gauge”
+by
+Bidgee
+via
+Wikimedia Commons
+.
+CC BY 3.0
+.
+3 tickets to the museum cost
+$
+12.75. At this rate, what is the cost of:
+1 ticket?
+5 tickets?
+Elena went 60 meters in 15 seconds. Noah went 50 meters in 10 seconds. Elena and Noah both moved at a constant speed.
+How far did Elena go in 1 second?
+How far did Noah go in 1 second?
+Who went faster? Explain or show your reasoning.
+The first row in the table shows a recipe for 1 batch of trail mix. Complete the remaining rows with recipes for 2, 3, and 4 batches of the same type of trail mix.
+number of batches
+cups of cereal
+cups of almonds
+cups of raisins
+1
+2
+1/3
+1/4
+2
+3
+4

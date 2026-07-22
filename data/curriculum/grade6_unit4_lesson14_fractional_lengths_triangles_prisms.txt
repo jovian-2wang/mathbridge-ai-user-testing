@@ -1,0 +1,188 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 14: Fractional Lengths in Triangles and Prisms
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-14/index.html
+
+======================================================================
+
+Lesson 14
+Fractional Lengths in Triangles and Prisms
+Let’s explore area and volume when fractions are involved.
+Learning Targets:
+I can explain how to find the volume of a rectangular prism using cubes that have a unit fraction as their edge length.
+I can use division and multiplication to solve problems involving areas of triangles with fractional bases and heights.
+I know how to find the volume of a rectangular prism even when the edge lengths are not whole numbers.
+14.1
+Area of Triangle
+Find the area of Triangle A in square centimeters. Show your reasoning.
+[Image description: A triangle labeled A is drawn such that one vertex is to the left, one vertex is above the first vertex and to right, and the third vertex is below the first and directly below the second vertex. The vertical side of the triangle is labeled 4 and one half centimeters. A dashed line from the first vertex to the vertical side of the triangle is drawn and a right angle symbol is indicated. The dashed line is labeled 4 and one half centimeters.]
+14.2
+Bases and Heights of Triangles
+The area of Triangle B is 8 square units. Find the length of
+b
+. Show your reasoning.
+[Image description: A triangle labeled B has a horizontal side on the bottom of the triangle and a vertex above the horizontal side. A dashed line from the vertex to the horizontal side is drawn and a right angle symbol is indicated. The horizontal side is labeled b and the dashed line is labeled eight thirds.]
+The area of Triangle C is
+54/5
+square units. What is the length of
+h
+? Show your reasoning.
+[Image description: A triangle labeled C has a horizontal side at the top of the triangle and a vertex below the horizontal side and to the left. A horizontal line extends from the horizontal side and to the left. A dashed line is drawn from the bottom vertex to the extended horizontal line and a right angle symbol is indicated. The dashed line is labeled h and the horizontal side of the triangle is labeled 3 and three fifths.]
+14.3
+Volumes of Cubes and Prisms
+Use the cubes or the applet for the following questions.
+open applet in presentation mode
+Your teacher will give you a set of cubes with an edge length of
+1/2
+inch. Use them to help you answer the following questions.
+Here is a drawing of a cube with an edge length of 1 inch. How many cubes with an edge length of
+1/2
+inch are needed to fill this cube?
+[Image description: A cube with the side lengths of 1 inch]
+What is the volume, in cubic inches, of a cube with an edge length of
+1/2
+inch? Explain or show your reasoning.
+Four cubes are piled in a single stack to make a prism. Each cube has an edge length of
+1/2
+inch. Sketch the prism, and find its volume in cubic inches.
+Use cubes with an edge length of
+1/2
+inch to build prisms with the lengths, widths, and heights shown in the table.
+For each prism, record in the table how many
+1/2
+-inch cubes can be packed into the prism and the volume of the prism.
+prism
+length (in)
+prism
+width (in)
+prism
+height (in)
+number of
+1/2
+-inch
+cubes in prism
+volume of
+prism (cu in)
+1/2
+1/2
+1/2
+1
+1
+1/2
+2
+1
+1/2
+2
+2
+1
+4
+2
+3/2
+5
+4
+2
+5
+4
+21/2
+Analyze the values in the table. What do you notice about the relationship between the edge lengths of each prism and its volume?
+What is the volume of a rectangular prism that is
+11/2
+inches by
+21/4
+inches by 4 inches? Show your reasoning.
+Are you ready for more?
+A unit fraction has a 1 in the numerator. These are unit fractions:
+1/3, 1/100, 1/1
+. These are
+not
+unit fractions:
+2/9, 8/1, 21/5
+.
+Find three unit fractions whose sum is
+1/2
+. An example is:
+1/8 + 1/8 + 1/4 = 1/2
+How many examples like this can you find?
+Find a box whose surface area in square units equals its volume in cubic units. How many like this can you find?
+Lesson 14 Summary
+If a rectangular prism has edge lengths of 2 units, 3 units, and 5 units, we can think of it as 2 layers of unit cubes, with each layer having
+(3 · 5)
+unit cubes in it. So the volume, in cubic units, is:
+2· 3· 5
+[Image description: Two layers of unit cubes. Each layer has edge lengths of 1 unit, 3 units, and 5 units. The figure is labeled 2 times 3 times 5.]
+To find the volume of a rectangular prism with fractional edge lengths, we can think of it as being built of cubes that have a unit fraction for their edge length. For instance, if we build a prism that is
+1/2
+-inch tall,
+3/2
+-inch wide, and 4 inches long using cubes with a
+1/2
+-inch edge length, we would have:
+A height of 1 cube, because
+1 · 1/2 = 1/2
+A width of 3 cubes, because
+3 · 1/2 = 3/2
+A length of 8 cubes, because
+8 · 1/2 = 4
+The volume of the prism would be
+1 · 3 · 8
+, or 24 cubic units. How do we find its volume in cubic inches?
+We know that each cube with a
+1/2
+-inch edge length has a volume of
+1/8
+cubic inch, because
+1/2 · 1/2 · 1/2 = 1/8
+. Since the prism is built using 24 of these cubes, its volume, in cubic inches, would then be
+24 · 1/8
+, or 3 cubic inches.
+The volume of the prism, in cubic inches, can also be found by multiplying the fractional edge lengths in inches:
+1/2 · 3/2 · 4 = 3
+Lesson 14 Practice Problems
+Clare is using little wooden cubes with edge length
+1/2
+inch to build a larger cube that has edge length 4 inches. How many little cubes does she need? Explain your reasoning.
+The triangle has an area of
+77/8
+cm
+2
+and a base of
+51/4
+cm.
+What is the length of
+h
+? Explain your reasoning.
+[Image description: A triangle with a horizontal base labeled five and one fourth centimeters. A horizontal line is extended from the base and to the left. A vertical dashed line is drawn from the top right vertex to the extended base and a right angle symbol is indicated.]
+Which of the following expressions can be used to find how many cubes with edge length of
+1/3
+unit fit in a prism that is 5 units by 5 units by 8 units? Explain or show your reasoning.
+(5 · 1/3) · (5 · 1/3) · (8 · 1/3)
+5 · 5 · 8
+(5 · 3) · (5 · 3) · (8 · 3)
+(5 · 5 · 8) · (1/3)
+Mai says that we can also find the answer by multiplying the edge lengths of the prism and then multiplying the result by 27. Do you agree with her statement? Explain your reasoning.
+A builder is building a fence with
+61/4
+-inch-wide wooden boards, arranged side-by-side with no gaps. How many boards are needed to build a fence that is 150 inches long? Show your reasoning.
+Find the value of each expression. Show your reasoning and check your answer.
+21/7 ÷ 2/7
+17/20 ÷ 1/4
+A bucket contains
+112/3
+gallons of water and is
+5/6
+full. How many gallons of water would be in a full bucket?
+Write a multiplication and a division equation to represent the situation, and then find the answer. Show your reasoning.
+There are 80 kids in a gym. 75% are wearing socks. How many are
+not
+wearing socks? If you get stuck, consider using a tape diagram showing sections that each represent 25% of the kids in the gym.
+Lin wants to save
+$
+75 for a trip to the city. If she has saved
+$
+37.50 so far, what percentage of her goal has she saved? What percentage remains?
+Noah wants to save
+$
+60 so that he can purchase a concert ticket. If he has saved
+$
+45 so far, what percentage of his goal has he saved? What percentage remains?

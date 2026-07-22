@@ -1,0 +1,151 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 12: Fractional Lengths
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-12/index.html
+
+======================================================================
+
+Lesson 12
+Fractional Lengths
+Let’s solve problems about fractional lengths.
+Learning Targets:
+I can use division and multiplication to solve problems involving fractional lengths.
+12.1
+Number Talk: Multiplication Strategies
+Find the product mentally.
+19· 14
+12.2
+How Many Would It Take? (Part 1)
+Jada was using square stickers with a side length of
+3/4
+inch to decorate the spine of a photo album. The spine is
+101/2
+inches long. If she laid the stickers side by side without gaps or overlaps, how many stickers did she use to cover the length of the spine?
+How many
+5/8
+-inch binder clips, laid side by side, make a length of
+111/4
+inches?
+It takes exactly 26 paper clips laid end to end to make a length of
+177/8
+inches.
+Estimate the length of each paper clip.
+Calculate the length of each paper clip. Show your reasoning.
+Are you ready for more?
+Lin has a work of art that is
+14
+inches by
+20
+inches. She wants to frame it with large paper clips laid end to end.
+If each paper clip is
+13/4
+inch long, how many paper clips would she need? Show your reasoning and be sure to think about potential gaps and overlaps. Consider making a sketch that shows how the paper clips could be arranged.
+How many paper clips are needed if the paper clips are spaced
+1/4
+inch apart? Describe the arrangement of the paper clips at the corners of the frame.
+12.3
+How Many Times as Tall or as Far?
+A second-grade student is 4 feet tall. Her teacher is
+52/3
+feet tall.
+How many times as tall as the student is the teacher?
+What fraction of the teacher’s height is the student’s height?
+Find each quotient. Show your reasoning and check your answer.
+9 ÷ 3/5
+17/8 ÷ 3/4
+Write a division expression that can help answer each of the following questions. Then answer the question. If you get stuck, draw a diagram.
+A runner ran
+14/5
+miles on Monday and
+63/10
+miles on Tuesday. How many times her Monday’s distance was her Tuesday’s distance?
+A cyclist planned to ride
+91/2
+miles but only managed to travel
+37/8
+miles. What fraction of his planned trip did he travel?
+12.4
+Comparing Paper Rolls
+The photo shows a situation that involves fractions.
+[Image description: Three toliet paper rolls and one paper towel roll]
+Use the photo to help you complete the following statements. Explain or show your reasoning for the second statement.
+The length of the long paper roll is about ______ times the length of the short paper roll.
+The length of the short paper roll is about ______ times the length of the long paper roll.
+If the length of the long paper roll is
+11 1/4
+inches, what is the length of each short paper roll?
+Use the information you have about the paper rolls to write a multiplication equation or a division equation for the question. Note that
+11 1/4 = 45/4
+.
+Answer the question. If you get stuck, draw a diagram.
+Lesson 12 Summary
+Division can help us solve comparison problems in which we find out how many times as large or as small one number is compared to another. Here is an example.
+A student is playing two songs for a music recital. The first song is
+11/2
+minutes long. The second song is
+3 3/4
+minutes long.
+[Image description: Diagrams showing the length of the first and second song]
+We can ask two different comparison questions and write different multiplication and division equations to represent each question.
+How many times as long as the first song is the second song?
+{?} · 11/2 = 33/4
+3 3/4 ÷ 11/2 = {?}
+Let’s use the algorithm we learned to calculate the quotient:
+\begin {align} &3 3/4 ÷ 11/2\\[10px] &= 15/4 ÷ 3/2\\[10px] &= 15/4 · 2/3\\[10px] &=30/12\\[10px]&=5/2\\[10px] \end {align}
+This means the second song is
+21/2
+times as long as the first song.
+What fraction of the second song is the first song?
+{?} · 33/4 = 11/2
+11/2 ÷ 33/4 = {?}
+Let’s calculate the quotient:
+\begin {align} &11/2÷ 3 3/4\\[10px] &=3/2 ÷ 15/4\\[10px] &=3/2 · 4/15\\[10px] &=12/30\\[10px] &=2/5 \end {align}
+The first song is
+2/5
+as long as the second song.
+Lesson 12 Practice Problems
+One inch is around
+211/20
+centimeters.
+[Image description: an image of a ruler in inches and centimeters]
+How many centimeters long is 3 inches? Show your reasoning.
+What fraction of an inch is 1 centimeter? Show your reasoning.
+What question can be answered by finding
+10 ÷ 211/20
+?
+A zookeeper is
+61/4
+feet tall. A young giraffe in his care is
+93/8
+feet tall.
+How many times as tall as the zookeeper is the giraffe? ​
+What fraction of the giraffe’s height is the zookeeper’s height?
+A rectangular bathroom floor is covered with square tiles that are
+11/2
+feet by
+11/2
+feet. The length of the bathroom floor is
+101/2
+feet and the width is
+61/2
+feet.
+How many tiles does it take to cover the length of the floor?
+How many tiles does it take to cover the width of the floor?
+The Food and Drug Administration (FDA) recommends a certain amount of nutrient intake per day called the “daily value.” Food labels usually show percentages of the daily values for several different nutrients—calcium, iron, vitamins, etc.
+In
+3/4
+cup of oatmeal, there is
+1/10
+of the recommended daily value of iron. What fraction of the daily recommended value of iron is in 1 cup of oatmeal?
+Write a multiplication equation and a division equation to represent the question, and then answer the question. Show your reasoning.
+What fraction of
+1/2
+is
+1/3
+? Draw a tape diagram to represent and answer the question. Use graph paper if needed.
+Noah says, “There are
+21/2
+groups of
+4/5
+in 2.” Do you agree with his statement? Draw a tape diagram to show your reasoning. Use graph paper, if needed.

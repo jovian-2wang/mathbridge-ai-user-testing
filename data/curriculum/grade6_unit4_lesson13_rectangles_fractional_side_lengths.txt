@@ -1,0 +1,183 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 13: Rectangles with Fractional Side Lengths
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-13/index.html
+
+======================================================================
+
+Lesson 13
+Rectangles with Fractional Side Lengths
+Let’s explore rectangles that have fractional measurements.
+Learning Targets:
+I can use division and multiplication to solve problems involving areas of rectangles with fractional side lengths.
+13.1
+Areas of Squares
+[Image description: Three squares. The first square is labeled with side length 1 inch on the vertical side and 1 inch on the horizontal side. The second square is labeled with side length one half inch on the vertical side and one half inch on the horizontal side. The third square is labeled with side length 2 inches on the vertical side and 2 inches on the horizontal side.]
+What do you notice about the areas of the squares? Write your observations.
+Consider the statement: “A square with side lengths of
+1/3
+inch has an area of
+1/3
+square inches.” Do you agree or disagree with the statement? Explain or show your reasoning.
+13.2
+Areas of Squares and Rectangles
+Use one piece of
+1/4
+-inch graph paper for the following.
+Use a ruler to draw a square with side length of 1 inch on the graph paper. Inside the square, draw a square with side length of
+1/4
+inch.
+How many squares with side length of
+1/4
+inch can fit in a square with side length of 1 inch?
+What is the area of a square with side length of
+1/4
+inch? Explain or show how you know.
+Use a ruler to draw a rectangle that is
+31/2
+inches by
+21/4
+inches on the graph paper. Write a division expression for each question and answer the question.
+How many
+1/4
+-inch segments are in a length of
+31/2
+inches?
+How many
+1/4
+-inch segments are in a length of
+21/4
+inches?
+Use your drawings to show that a rectangle that is
+31/2
+inches by
+21/4
+inches has an area of
+77/8
+square inches.
+13.3
+Areas of Rectangles
+Each of the following multiplication expressions represents the area of a rectangle.
+2 · 4
+21/2 · 4
+2 · 43/4
+21/2 · 43/4
+All regions shaded in light blue have the same area. Match each diagram to the expression that you think represents its area. Be prepared to explain your reasoning.
+[Image description: rectangles are formed by different sized rectangles]
+Use the diagram that matches
+21/2 · 43/4
+to show that the value of
+21/2 · 43/4
+is
+117/8
+.
+Are you ready for more?
+The following rectangles are composed of squares, and each rectangle is constructed using the previous rectangle. The side length of the first square is 1 unit.
+[Image description: Figures formed by different sized squares]
+Draw the next four rectangles that are constructed in the same way. Then complete the table with the side lengths of the rectangle and the fraction of the longer side over the shorter side.
+short side
+long side
+\frac {\text {long side}}{\text{short side}}
+1
+1
+2
+3
+Describe the values of the fraction of the longer side over the shorter side. What happens to the fraction as the pattern continues?
+13.4
+How Many Would it Take? (Part 2)
+Noah would like to cover a rectangular tray with rectangular tiles. The tray has a width of
+111/4
+inches and an area of
+505/8
+square inches.
+Find the length of the tray in inches.
+If the tiles are
+3/4
+inch by
+9/16
+inch, how many would Noah need to cover the tray completely, without gaps or overlaps? Explain or show your reasoning.
+Draw a diagram to show how Noah could lay the tiles. Your diagram should show how many tiles would be needed to cover the length and width of the tray, but does not need to show every tile.
+Lesson 13 Summary
+If a rectangle has side lengths
+a
+units and
+b
+units, the area is
+a · b
+square units. For example, if we have a rectangle with
+1/2
+-inch side lengths, its area is
+1/2 · 1/2
+or
+1/4
+square inches.
+[Image description: A large square is divided into 4 equal squares. The large square has bottom horizontal side length labeled 1 inch. Of the four smaller squares, the top left square is shaded blue. It has side lengths labeled one half inch.]
+This means that if we know the
+area
+and
+one side length
+of a rectangle, we can divide to find the
+other
+side length.
+[Image description: A rectangle with the horizontal side labeled 10 and one half inches and the vertical side labeled with a question mark. In the center of the rectangle, 89 and one fourth square inches is indicated.]
+If one side length of a rectangle is
+101/2
+in and its area is
+891/4
+in
+2
+, we can write this equation to show their relationship:
+101/2 · {?} =891/4
+Then, we can find the other side length, in inches, using division:
+891/4 ÷ 101/2 = {?}
+Lesson 13 Practice Problems
+Find the unknown side length of the rectangle if its area is 11 m
+2
+. Show your reasoning.
+[Image description: A rectangle that is labeled 11 meters squared. The side length of one side of the rectangle is labeled "three and two thirds meters" and the side length of the other side is labeled with a question mark. Each angle is labeled with a right angle symbol.]
+Check your answer by multiplying it by the given side length (
+32/3
+). Is the resulting product 11? If not, revisit your work for the first question.
+A worker is tiling the floor of a rectangular room that is 12 feet by 15 feet. The tiles are square with side lengths
+11/3
+feet. How many tiles are needed to cover the entire floor? Show your reasoning.
+A television screen has length
+161/2
+inches, width
+w
+inches, and area 462 square inches. Select
+all
+equations that represent the relationship of the side lengths and area of the television.
+w · 462 = 161/2
+161/2 · w = 462
+462 ÷ 161/2 = w
+462 ÷ w= 161/2
+161/2 · 462 = w
+The area of a rectangle is
+171/2
+in
+2
+and its shorter side is
+31/2
+in. Draw a diagram that shows this information. What is the length of the longer side?
+A bookshelf is 42 inches long.
+How many books of length
+11/2
+inches will fit on the bookshelf? Explain your reasoning.
+A bookcase has 5 of these bookshelves. How many feet of shelf space is there? Explain your reasoning.
+Find the value of
+5/32÷ 25/4
+. Show your reasoning.
+How many groups of
+12/3
+are in each of the following quantities?
+a.
+15/6
+b.
+41/3
+c.
+5/6
+It takes
+11/4
+minutes to fill a 3-gallon bucket of water with a hose. At this rate, how long does it take to fill a 50-gallon tub? If you get stuck, consider using the table.

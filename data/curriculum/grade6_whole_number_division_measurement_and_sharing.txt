@@ -1,0 +1,40 @@
+Grade 6 Whole Number Division: Equal Sharing and Measurement Division
+
+Division can describe two different situations.
+
+1. Equal sharing division:
+The total amount and the number of groups are known.
+The unknown is the amount in each group.
+
+Example:
+180 apples are divided equally into 4 boxes.
+This means 180 ÷ 4.
+The quotient tells how many apples are in one box.
+
+A student can reason:
+- 180 is the total number of apples.
+- 4 is the number of equal groups.
+- Since 4 = 2 × 2, divide by 2 and then divide by 2 again.
+- Half of 180 is 90, and half of 90 is 45.
+
+2. Measurement division:
+The total amount and the size of each group are known.
+The unknown is the number of groups.
+
+Example:
+How many groups of 4 apples can be made from 180 apples?
+This means 180 ÷ 4.
+The quotient tells how many groups can be made.
+
+A student can reason:
+- 180 is the total number of apples.
+- 4 is the number of apples in each group.
+- Ask: 4 × ? = 180.
+- A nearby fact is 4 × 40 = 160.
+- 180 - 160 = 20.
+- 20 ÷ 4 = 5.
+- So the total number of groups is 40 + 5.
+
+Students should always interpret the quotient in context.
+For equal sharing, the quotient is the amount in each group.
+For measurement division, the quotient is the number of groups.

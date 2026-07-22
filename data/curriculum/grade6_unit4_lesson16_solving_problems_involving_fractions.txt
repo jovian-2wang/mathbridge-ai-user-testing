@@ -1,0 +1,201 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 16: Solving Problems Involving Fractions
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-16/index.html
+
+======================================================================
+
+Lesson 16
+Solving Problems Involving Fractions
+Let’s add, subtract, multiply, and divide fractions.
+Learning Targets:
+I can use mathematical expressions to represent and solve word problems that involve fractions.
+16.1
+Operations with Fractions
+Without calculating, order the expressions according to their values from least to greatest. Be prepared to explain or show your reasoning.
+3/4 + 2/3
+3/4 - 2/3
+3/4 · 2/3
+3/4 ÷ 2/3
+16.2
+Situations with
+3/4
+and
+1/2
+Here are four situations that involve
+3/4
+and
+1/2
+.
+Before calculating, decide if each answer is greater than 1 or less than 1.
+Write a multiplication equation or division equation for the situation.
+Answer the question. Show your reasoning. Draw a tape diagram, if needed.
+There was
+3/4
+liter of water in Andre’s water bottle. Andre drank
+1/2
+of the water. How many liters of water did he drink?
+The distance from Han’s house to his school is
+3/4
+kilometer. Han walked
+1/2
+kilometer. What fraction of the distance from his house to the school did Han walk?
+Priya’s goal was to collect
+1/2
+kilogram of trash. She collected
+3/4
+kilogram of trash. How many times her goal was the amount of trash she collected?
+Mai’s class volunteered to clean a park with an area of
+1/2
+square mile. Before they took a lunch break, the class had cleaned
+3/4
+of the park. How many square miles had they cleaned before lunch?
+16.3
+Pairs of Problems
+Work with a partner to write equations for the following questions. One person should work on the questions labeled A1, B1, . . . , E1 and the other should work on those labeled A2, B2, . . . , E2.
+A1. Lin’s bottle holds
+3 1/4
+cups of water. She drank 1 cup of water. What fraction of the water in the bottle did she drink?
+B1. Plant A is
+16/3
+feet tall. This is
+4/5
+as tall as Plant B. How tall is Plant B?
+C1.
+8/9
+kilogram of berries is put into a container that already has
+7/3
+kilogram of berries. How many kilograms are in the container?
+D1. The area of a rectangle is
+141/2
+sq cm and one side is
+4 1/2
+cm. How long is the other side?
+E1. A stack of magazines is
+4 2/5
+inches high. The stack needs to fit into a box that is
+2 1/8
+inches high. How many inches too high is the stack?
+A2. Lin’s bottle holds
+3 1/4
+cups of water. After she drank some, there were
+1 1/2
+cups of water in the bottle. How many cups did she drink?
+B2. Plant A is
+16/3
+feet tall. Plant C is
+4/5
+as tall as Plant A. How tall is Plant C?
+C2. A container with
+8/9
+kilogram of berries is
+2/3
+full. How many kilograms can the container hold?
+D2. The side lengths of a rectangle are
+4 1/2
+cm and
+2 2/5
+cm. What is the area of the rectangle?
+E2. A stack of magazines is
+42/5
+inches high. Each magazine is
+2/5
+-inch thick. How many magazines are in the stack?
+Trade papers with your partner, and check your partner’s equations. If there is a disagreement about what an equation should be, discuss it until you reach an agreement.
+Your teacher will assign 2–3 questions for you to answer. For each question:
+Estimate the answer before calculating it.
+Find the answer, and show your reasoning.
+16.4
+Baking Cookies
+Mai, Kiran, and Clare are baking cookies together. They need
+3/4
+cup of flour and
+1/3
+cup of butter to make a batch of cookies. They each brought the ingredients they had at home.
+Mai brought 2 cups of flour and
+1/4
+cup of butter.
+Kiran brought 1 cup of flour and
+1/2
+cup of butter.
+Clare brought
+11/4
+cups of flour and
+3/4
+cup of butter.
+If the students have plenty of the other ingredients they need (sugar, salt, baking soda, etc.), how many whole batches of cookies can they make? Explain your reasoning.
+Lesson 16 Summary
+We can add, subtract, multiply, and divide both whole numbers and fractions. Here is a summary of how we add, subtract, multiply, and divide fractions.
+To add or subtract fractions, we often look for a common denominator so the pieces involved are the same size. This makes it easy to add or subtract the pieces.
+3/2 - 4/5 = 15/10 - 8/10
+To multiply fractions, we often multiply the numerators and the denominators.
+3/8 · 5/9 = 3 · 5/8 · 9
+To divide a number by a fraction
+\frac ab
+, we can simply multiply the number by
+\frac ba
+, which is the reciprocal of
+\frac ab
+.
+4/7 ÷ 5/3 = 4/7 · 3/5
+Lesson 16 Practice Problems
+An orange has about
+1/4
+cup of juice. How many oranges are needed to make
+21/2
+cups of juice? Select
+all
+equations that represent this question.
+{?} · 1/4= 21/2
+1/4 ÷ 21/2 = {?}
+{?} · 21/2 = 1/4
+21/2 ÷ 1/4 = {?}
+Mai, Clare, and Tyler are hiking from a parking lot to the summit of a mountain. They pass a sign that gives distances.
+Parking lot:
+3/4
+mile
+Summit:
+11/2
+miles
+Mai says: “We are one third of the way there.” Clare says: “We have to go twice as far as we have already gone.” Tyler says: “The total hike is three times as long as what we have already gone.”
+Can they all be correct? Explain how you know.
+Priya’s cat weighs
+51/2
+pounds and her dog weighs
+81/4
+pounds. Estimate the missing number in each statement before calculating the answer. Then, compare your answer to the estimate and explain any discrepancy.
+The cat is _______ as heavy as the dog.
+Their combined weight is _______ pounds.
+The dog is _______ pounds heavier than the cat.
+Before refrigerators existed, some people had blocks of ice delivered to their homes. A delivery wagon had a storage box in the shape of a rectangular prism that was
+71/2
+feet by 6 feet by 6 feet. The cubic ice blocks stored in the box had side lengths
+11/2
+feet. How many ice blocks fit in the storage box?
+270
+33/8
+80
+180
+Fill in the blanks with 0.001, 0.1, 10, or 1000 so that the value of each quotient is in the correct column.
+close to
+1/100
+____
+÷ 9
+12 ÷
+____
+close to 1
+____
+÷ 0.12
+1/8 ÷
+____
+greater than 100
+____
+÷ 1/3
+700.7 ÷
+____
+A school club sold 300 shirts. 31% were sold to fifth graders, 52% were sold to sixth graders, and the rest were sold to teachers. How many shirts were sold to each group—fifth graders, sixth graders, and teachers? Explain or show your reasoning.
+Jada has some pennies and dimes. The ratio of Jada’s pennies to dimes is 2 to 3.
+From the information given above, can you determine how many coins Jada has?
+If Jada has 55 coins, how many of each kind of coin does she have?
+How much are her coins worth?

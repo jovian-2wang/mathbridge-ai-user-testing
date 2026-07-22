@@ -1,0 +1,110 @@
+{
+  "Fraction comparison": {
+    "description": "Compare fractions and reason about which fraction is larger or smaller.",
+    "examples": [
+      "compare fractions",
+      "which fraction is larger",
+      "which fraction is smaller",
+      "comparing fractions with different denominators",
+      "use common denominators to compare fractions"
+    ]
+  },
+  "Equivalent fractions": {
+    "description": "Recognize and generate equivalent fractions.",
+    "examples": [
+      "equivalent fractions",
+      "rewrite fractions with the same value",
+      "generate equivalent fractions",
+      "rename fractions",
+      "same value fractions"
+    ]
+  },
+  "Fraction addition": {
+    "description": "Add and subtract fractions using common denominators.",
+    "examples": [
+      "fraction addition",
+      "adding fractions",
+      "subtracting fractions",
+      "common denominator",
+      "least common denominator",
+      "least common multiple"
+    ]
+  },
+  "Dividing fractions": {
+    "description": "Divide fractions using visual models, measurement division, and reciprocal reasoning.",
+    "examples": [
+      "dividing fractions",
+      "division of fractions",
+      "divide fractions",
+      "how many unit fraction groups fit inside a fraction",
+      "multiply by reciprocal",
+      "reciprocal algorithm for fraction division",
+      "measurement division with fractions",
+      "counting one-eighth pieces in three-fourths"
+    ]
+  },
+  "Ratios": {
+    "description": "Understand, simplify, and reason about ratios and equivalent ratios.",
+    "examples": [
+      "ratio",
+      "ratios",
+      "equivalent ratios",
+      "simplify a ratio",
+      "compare two quantities",
+      "part to part comparison",
+      "ratio table"
+    ]
+  },
+  "Unit rates": {
+    "description": "Find rates per one unit, such as miles per hour or price per item.",
+    "examples": [
+      "unit rate",
+      "unit rates",
+      "rate per one",
+      "miles per hour",
+      "price per item",
+      "cost per one",
+      "distance per hour",
+      "quantity per unit",
+      "for each",
+      "per hour"
+    ]
+  },
+  "Fraction-decimal relationships": {
+    "description": "Connect fractions and decimals as equivalent representations.",
+    "examples": [
+      "fractions and decimals",
+      "fraction to decimal",
+      "decimal equivalent",
+      "convert fraction to decimal",
+      "convert decimal to fraction",
+      "tenths and hundredths",
+      "1/2 equals 0.5",
+      "3/4 equals 0.75"
+    ]
+  },
+  "Data and statistics": {
+    "description": "Analyze data using measures such as mean, median, mode, and range.",
+    "examples": [
+      "mode",
+      "mean",
+      "median",
+      "range",
+      "average",
+      "data set",
+      "frequency",
+      "most common value"
+    ]
+  },
+  "Word problems": {
+    "description": "Represent and solve real-world math problems with equations or models.",
+    "examples": [
+      "word problem",
+      "story problem",
+      "real-world problem",
+      "write an equation for the situation",
+      "model a situation",
+      "solve a contextual problem"
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 11: Using an Algorithm to Divide Fractions
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-11/index.html
+
+======================================================================
+
+Lesson 11
+Using an Algorithm to Divide Fractions
+Let’s divide fractions using the rule we learned.
+Learning Targets:
+I can describe and apply a rule to divide numbers by any fraction.
+11.1
+Multiplying Fractions
+Evaluate each expression.
+2/3 · 27
+1/2 · 2/3
+2/9 · 3/5
+27/100 · 200/9
+≤ft( 13/4 ) · 5/7
+11.2
+Dividing a Fraction by a Fraction
+Work with a partner. One person should work on the questions labeled “Partner A,” and the other should work on those labeled “Partner B.”
+Partner A.
+Find the value of each expression, and answer the question by completing the diagram that has been started for you. Show your reasoning.
+3/4 ÷ 1/8
+How many
+1/8
+s in
+3/4
+?
+[Image description: a diagram representing three fourths]
+9/10 ÷ 3/5
+How many
+3/5
+s in
+9/10
+?
+[Image description: A tape diagram of 10 equal parts. From the beginning of the diagram to the end of the ninth part of the diagram a brace is drawn and labeled nine tenths.]
+Use the applet to confirm your answers and explore your own examples.
+open applet in presentation mode
+Partner B.
+Elena said: “If you want to divide 4 by
+2/5
+, you can multiply 4 by 5, then divide it by 2 or multiply it by
+1/2
+.”
+Find the value of each expression using the strategy that Elena described.
+3/4 ÷ 1/8
+9/10 ÷ 3/5
+Pause here for a discussion with your partner.
+Complete this statement based on your observations:
+To divide a number
+n
+by a fraction
+a/b
+, we can multiply
+n
+by ________ and then divide the product by ________.
+Select
+all
+equations that represent the statement you completed.
+n ÷ a/b = n · b ÷ a
+n ÷ a/b= n · a ÷ b
+n ÷ a/b = n · a/b
+n ÷ a/b = n · b/a
+11.3
+Using an Algorithm to Divide Fractions
+Calculate each quotient using your preferred strategy. Show your work and be prepared to explain your strategy.
+8/9 ÷ 4
+3/4 ÷ 1/2
+3 1/3 ÷ 2/9
+9/2 ÷ 3/8
+6 2/5 ÷ 3
+After biking
+5 1/2
+miles, Jada has traveled
+2/3
+of the length of her trip. How long (in miles) is the entire length of her trip? Write an equation to represent the situation, and find the answer using your preferred strategy.
+Are you ready for more?
+You have a pint of grape juice and a pint of milk. Transfer 1 tablespoon from the grape juice into the milk and mix it up. Then transfer 1 tablespoon of the mixture back to the grape juice. Which mixture is more contaminated?
+Lesson 11 Summary
+The division
+a ÷ 3/4 = {?}
+is equivalent to
+3/4 · {?} = a
+, so we can think of it as meaning “
+3/4
+of what number is
+a
+?” and represent it with a diagram as shown. The length of the entire diagram represents the unknown number.
+[Image description: A diagram showing multiplication and division]
+If
+3/4
+of a number is
+a
+, then to find the number, we can first divide
+a
+by 3 to find
+1/4
+of the number. Then we multiply the result by 4 to find the number.
+The steps above can be written as:
+a ÷ 3 · 4
+. Dividing by 3 is the same as multiplying by
+1/3
+, so we can also write the steps as:
+a · 1/3 · 4
+.
+In other words:
+a ÷ 3 · 4= a · 1/3 · 4
+. And
+a · 1/3 · 4 = a · 4/3
+, so we can say that:
+a ÷ 3/4= a · 4/3
+In general, dividing a number by a fraction
+c/d
+is the same as multiplying the number by
+d/c
+, which is the reciprocal of the fraction.
+Lesson 11 Practice Problems
+Select
+all
+statements that show correct reasoning for finding
+14/15÷ 7/5
+.
+Multiplying
+14/15
+by 5 and then by
+1/7
+.
+Dividing
+14/15
+by 5, and then multiplying by
+1/7
+.
+Multiplying
+14/15
+by 7, and then multiplying by
+1/5
+.
+Multiplying
+14/15
+by 5 and then dividing by 7.
+Clare said that
+4/3÷5/2
+is
+10/3
+. She reasoned:
+4/3 · 5=20/3
+and
+20/3÷ 2=10/3
+.
+Explain why Clare’s answer and reasoning are incorrect. Find the correct quotient.
+Find the value of
+15/4÷ 5/8
+. Show your reasoning.
+Kiran has
+23/4
+pounds of flour. When he divides the flour into equal-sized bags, he fills
+41/8
+bags. How many pounds fit in each bag?
+Write a multiplication equation and a division equation to represent the question and then answer the question. Show your reasoning.
+Divide
+41/2
+by the following unit fractions.
+a.
+1/8
+b.
+1/4
+c.
+1/6
+After charging for
+1/3
+of an hour, a phone is at
+2/5
+of its full power. How long will it take the phone to charge completely?
+Decide whether each equation can represent the situation.
+1/3· {?}=2/5
+1/3÷ 2/5={?}
+2/5 ÷ 1/3 ={?}
+2/5 · {?}=1/3
+Elena and Noah are each filling a bucket with water. Noah’s bucket is
+2/5
+full and the water weighs
+21/2
+pounds. How much does Elena’s bucket weigh if her bucket is full and her bucket is identical to Noah’s?
+Write multiplication and division equations to represent the question.
+Draw a diagram to show the relationship between the quantities and to answer the question.

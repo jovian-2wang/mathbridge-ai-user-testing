@@ -1,0 +1,247 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 10: Dividing by Unit and Non-Unit Fractions
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-10/index.html
+
+======================================================================
+
+Lesson 10
+Dividing by Unit and Non-Unit Fractions
+Let’s look for patterns when we divide by a fraction.
+Learning Targets:
+I can divide a number by a non-unit fraction
+\frac ab
+by reasoning with the numerator and denominator, which are whole numbers.
+I can divide a number by a unit fraction
+\frac 1b
+by reasoning with the denominator, which is a whole number.
+10.1
+Dividing by a Whole Number
+Work with a partner. One person should solve the problems labeled “Partner A,” and the other should solve those labeled “Partner B.” Write an equation for each question. If you get stuck, draw a diagram.
+Partner A
+How many 3s are in 12?
+Division equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+How many 4s are in 12?
+Division equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+How many 6s are in 12?
+Division equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+Partner B
+What is 12 groups of
+1/3
+?
+Multiplication equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+What is 12 groups of
+1/4
+?
+Multiplication equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+What is 12 groups of
+1/6
+?
+Multiplication equation:
+[Image description: A blank grid with height 5 units and length 16 units.]
+What do you notice in the diagrams and equations? Discuss with your partner.
+Complete this sentence based on your observations: Dividing by a whole number
+a
+produces the same result as multiplying by _____________ .
+10.2
+Dividing by Unit Fractions
+To find the value of
+6 ÷ 1/2
+, Elena thought, “How many
+1/2
+s are in 6?” and drew a tape diagram. It shows 6 ones with each one partitioned into 2 equal pieces.
+6 ÷ 1/2
+[Image description: a diagram representing the breakdown of the number 6]
+For each division expression, complete the diagram using the same interpretation of division as Elena’s. Then, write the value of the expression. Think about how to find that value without counting the pieces in the diagram.
+a.
+6 ÷ 1/3
+[Image description: A tape diagram of 6 equal parts. From the beginning of the diagram to the end of the diagram a brace is drawn and is labeled 6.]
+Value of the expression: ____________
+b.
+6 ÷ 1/4
+[Image description: A tape diagram of 6 equal parts. From the beginning of the diagram to the end of the diagram a brace is drawn and is labeled 6.]
+Value of the expression: ____________
+c.
+6 ÷ 1/6
+[Image description: A tape diagram of 6 equal parts. From the beginning of the diagram to the end of the diagram a brace is drawn and is labeled 6.]
+Value of the expression: ____________
+Analyze the expressions and your answers. Look for a pattern. How did you find how many
+1/2
+s,
+1/3
+s,
+1/4
+s, or
+1/6
+s were in 6 without counting? Explain your reasoning.
+Use your observations from previous questions to find the values of the following expressions. If you get stuck, you can draw diagrams.
+6 ÷ 1/8
+6 ÷ 1/10
+6 ÷ 1/25
+6 ÷ 1/b
+Find the value of each expression.
+8 ÷ 1/4
+12 ÷ 1/5
+a ÷ 1/2
+a ÷ 1/b
+10.3
+Dividing by Non-unit Fractions
+To find the value of
+6 ÷ 2/3
+, Elena began by drawing her diagram in the same way she did for
+6 ÷ 1/3
+.
+Use her diagram to find out how many
+2/3
+s are in 6. Adjust and label the diagram as needed.
+[Image description: a diagram representing the breakdown of the number 6]
+She says, “To find
+6 ÷ 2/3
+, I can just take the value of
+6 ÷ 1/3
+then either multiply it by
+1/2
+or divide it by 2.” Do you agree with her? Explain why or why not.
+For each division expression, complete the diagram using the same interpretation of division that Elena did. Then, write the value of the expression. Think about how you could find the value of each expression without counting the equal pieces in your diagram.
+6 ÷ 3/4
+[Image description: a diagram representing the breakdown of the number 6]
+Value of the expression:___________
+6 ÷ 4/3
+[Image description: a diagram representing the breakdown of the number 6]
+Value of the expression:___________
+6 ÷ 4/6
+[Image description: a diagram representing the breakdown of the number 6]
+Value of the expression:___________
+Elena studied her diagrams and noticed that she always took the same two steps to represent division by a fraction on a tape diagram. She said:
+“My first step was to partition each 1 whole into as many parts as the number in the denominator. So if the expression is
+6 ÷ 3/4
+, I would partition each 1 whole into 4 parts. Now I have 4 times as many parts.
+My second step was to put a certain number of those parts into one group, and that number is the numerator of the divisor. So if the fraction is
+3/4
+, I would put 3 of the
+1/4
+s into one group. I could then tell how many
+3/4
+s are in 6.”
+Which expression represents how many
+3/4
+s Elena would have after these two steps? Be prepared to explain your reasoning.
+6 ÷ 4 · 3
+6 ÷ 4 ÷ 3
+6 · 4 ÷ 3
+6 · 4 · 3
+Use your work from the previous questions to find the values of the following expressions. Draw diagrams if you are stuck.
+a.
+6 ÷ 2/7
+b.
+6÷3/10
+c.
+6 ÷ 6/25
+Are you ready for more?
+Find the missing value.
+[Image description: a number line with a missing value]
+Lesson 10 Summary
+To answer the question “How many
+1/3
+s are in 4?” or “What is
+4 ÷ 1/3
+?”, we can reason that there are 3 thirds in 1, so there are
+(4· 3)
+thirds in 4.
+In other words, dividing 4 by
+1/3
+has the same outcome as multiplying 4 by 3.
+[Image description: a diagram representing the breakdown of the number 4]
+4÷ 1/3 = 4 · 3
+In general, dividing a number by a unit fraction
+1/b
+is the same as multiplying the number by
+b
+, which is the reciprocal
+of
+1/b
+.
+How can we reason about
+4 ÷ 2/3
+?
+We already know that there are
+(4· 3)
+or 12 groups of
+1/3
+s in 4. To find how many
+2/3
+s are in 4, we need to put together every 2 of the
+1/3
+s into a group. Doing this results in half as many groups, which is 6 groups. In other words:
+[Image description: a diagram representing the breakdown of the number 4]
+4 ÷ 2/3 = (4 · 3) ÷ 2
+or
+4 ÷ 2/3 = (4 · 3) · 1/2
+In general, dividing a number by
+a/b
+, is the same as multiplying the number by
+b
+and then dividing by
+a
+, or multiplying the number by
+b
+and then by
+1/a
+.
+Lesson 10 Practice Problems
+Priya is sharing 24 apples equally with some friends. She uses division to determine how many people can have a share if each person gets a particular number of apples. For example,
+24 ÷ 4 = 6
+means that if each person gets 4 apples, 6 people can have apples. Here are some other calculations:
+24 ÷ 4 = 6
+24 ÷ 2 = 12
+24 ÷ 1 = 24
+24 ÷ 1/2 = {?}
+Priya thinks the “?” represents a number less than 24. Do you agree? Explain or show your reasoning.
+In the case of
+24 ÷ 1/2 = {?}
+, how many people can have apples?
+Here is a centimeter ruler.
+[Image description: portion of a ruler with the top labeled inches and the bottom of the ruler labeled centimeters. The top of the ruler has the numbers 1 and 2 indicated. There are 15 evenly spaced tick marks between the beginning of the ruler and 1 and between 1 and 2. The bottom of the ruler has the numbers 1 through 5 indicated. There are 10 evenly spaced tick marks between the beginning of the ruler and 1, 1 and 2, 2 and 3, 3 and 4, and 4 and 5.]
+Use the ruler to find
+1 ÷ 1/10
+and
+4 ÷ 1/10
+.
+What calculation did you do each time?
+Use your work from the first part to find each quotient.
+18 ÷ 1/10
+4÷ 2/10
+4÷ 8/10
+Find each quotient.
+a.
+5 ÷ 1/10
+b.
+5 ÷ 3/10
+c.
+5÷ 9/10
+Use the fact that
+21/2 ÷ 1/8=20
+to find
+21/2 ÷ 5/8
+. Explain or show your reasoning.
+It takes one week for a crew of workers to pave
+3/5
+kilometer of a road. At that rate, how long will it take to pave 1 kilometer?
+Write a multiplication equation and a division equation that represent the question and then answer the question. Show your reasoning.
+A box contains
+13/4
+pounds of pancake mix. Jada used
+7/8
+pound for a recipe. What fraction of the pancake mix in the box did she use? Explain or show your reasoning. Draw a diagram, if needed.
+Calculate each percentage mentally.
+25% of 400
+50% of 90
+75% of 200
+10% of 8,000
+5% of 20

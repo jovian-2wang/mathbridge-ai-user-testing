@@ -1,0 +1,129 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 3: Interpreting Division Situations
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-3/index.html
+
+======================================================================
+
+Lesson 3
+Interpreting Division Situations
+Let’s explore situations that involve division.
+Learning Targets:
+I can create a diagram or write an equation that represents division and multiplication questions.
+I can decide whether a division question is asking “how many groups?” or “how many in each group?”
+3.1
+Dot Image: Properties of Multiplication
+[Image description: An arrangement of dots.]
+3.2
+Homemade Jams
+Draw a diagram and write a multiplication equation to represent each of the following situations. Then answer the question.
+Mai had 4 jars. In each jar, she put
+21/4
+cups of homemade blueberry jam. Altogether, how many cups of jam are in the jars?
+Priya filled 5 jars, using a total of
+71/2
+cups of strawberry jam. How many cups of jam are in each jar?
+Han had some jars. He put
+3/4
+cup of grape jam in each jar, using a total of
+63/4
+cups. How many jars did he fill?
+Here is an applet to use if you choose to.
+The toolbar includes buttons that represent 1 whole and fractional parts, as shown here. Click a button to choose a quantity, and then click in the work space of the applet window to drop it. When you're done choosing pieces, use the Move tool (the arrow) to drag them into the jars. You can always go back and get more pieces, or delete them with the Trash Can tool.
+The jars in this applet are shown as stacked to make it easier to combine the jam and find out how much you have.
+open applet in presentation mode
+Here are the questions again.
+Mai had 4 jars. In each jar, she put
+21/4
+cups of homemade blueberry jam. Altogether, how many cups of jam are in the jars?
+Priya filled 5 jars, using a total of
+71/2
+cups of strawberry jam. How many cups of jam are in each jar?
+Han had some jars. He put
+3/4
+cup of grape jam in each jar, using a total of
+63/4
+cups. How many jars did he fill?
+3.3
+Making Granola
+To make 1 batch of granola, Kiran needs 26 ounces of oats. The only measuring tool he has is a 4-ounce scoop. How many scoops will it take to measure 26 ounces of oats?
+Will the answer be more than 1 or less than 1?
+Write a multiplication equation and a division equation that represent this situation. Use “?” to represent the unknown quantity.
+Find the unknown quantity. If you get stuck, draw a diagram.
+The recipe calls for 14 ounces of mixed nuts. To get that amount, Kiran uses 4 bags of mixed nuts.
+Write a mathematical question that might be asked about this situation.
+What might the equation
+14 ÷ 4 =\, {?}
+represent in Kiran’s situation?
+Find the quotient. Show your reasoning. If you get stuck, draw a diagram.
+Lesson 3 Summary
+If a situation involves equal-sized groups, it is helpful to make sense of it in terms of the number of groups, the size of each group, and the total amount. Here are three examples to help us better understand such situations.
+Suppose we have 3 bottles with
+61/2
+ounces of water in each, and the total amount of water is not given. Here we have 3 groups,
+61/2
+ounces in each group, and an unknown total, as shown in this diagram:
+[Image description: A tape diagram of 3 equal parts. Each part is labeled six and one half. A brace from the beginning of the diagram to the end of the disgram is labeled with a question mark.]
+We can express this situation as a multiplication problem. The unknown is the product, so we can simply multiply the 2 known numbers to find it.
+3 · 61/2 = {?}
+Next, suppose we have 20 ounces of water to fill 6 equal-sized bottles, and the amount in each bottle is not given. Here we have 6 groups, an unknown amount in each, and a total of 20. We can represent it like this:
+[Image description: A tape diagram of 6 equal parts. Each part is labeled with a question mark. A brace from the beginning of the diagram to the end of the diagram is labeled with 20.]
+This situation can also be expressed using multiplication, but the unknown is a factor, rather than the product:
+6\, · {?} = 20
+To find the unknown, we cannot simply multiply, but we can think of it as a division problem:
+20 ÷ 6 = \,?
+Now, suppose we have 40 ounces of water to pour into bottles, 12 ounces in each bottle, but the number of bottles is not given. Here we have an unknown number of groups, 12 in each group, and a total of 40.
+[Image description: A tape diagram with 3 parts. The first part and third part are equal and are labeled 12. The second part is labeled with a question mark. A brace from the beginning of the diagram to the end of the diagram is labeled 40.]
+Again, we can think of this in terms of multiplication, with a different factor being the unknown:
+? · 12 = 40
+Likewise, we can use division to find the unknown:
+40 ÷ 12 = \,?
+Whenever we have a multiplication situation, one factor tells us
+how many groups
+there are, and the other factor tells us
+how much is in each group
+.
+Sometimes we want to find the total. Sometimes we want to find how many groups there are. Sometimes we want to find how much is in each group. Anytime we want to find out how many groups there are or how much is in each group, we can represent the situation using division.
+Lesson 3 Practice Problems
+Write a multiplication equation and a division equation that this diagram could represent.
+[Image description: A tape diagram of three equal parts. Each part is labeled "eighteen". A brace from the beginning of the diagram to the end of the disgram is labeled "54".]
+Mai has
+$
+36 to spend on movie tickets. Each movie ticket costs
+$
+4.50. How many tickets can she buy?
+Write a multiplication equation and a division equation to represent this situation.
+Find the answer. Draw a diagram, if needed.
+Use the multiplication equation to check your answer.
+Kiran said that this diagram can show the solution to
+16÷ 8 = {?}
+or
+16 ÷ 2={?}
+, depending on how we think about the equations and the “?”.
+Explain or show how Kiran is correct.
+[Image description: The number 16 is broken up into two 8 pieces]
+Write a sentence describing a situation that could be represented by the equation
+4 ÷ 11/3 = {?}
+.
+Noah said, “When you divide a number by a second number, the result will always be smaller than the first number.”
+Jada said, “I think the result could be larger or smaller, depending on the numbers.”
+Do you agree with Noah or Jada? Show or explain your reasoning.
+Mini muffins cost
+$
+3.00 per dozen.
+Andre says, “I have
+$
+2.00, so I can afford 8 muffins.”
+Elena says, “I want to get 16 muffins, so I’ll need to pay
+$
+4.00."
+Do you agree with either, both, or neither of them? Explain your reasoning.
+A family has a monthly budget of
+$
+2,400. How much money is spent on each category?
+44% is spent on housing.
+23% is spent on food.
+6% is spent on clothing.
+17% is spent on transportation.
+The rest is put into savings.

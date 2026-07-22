@@ -1,0 +1,149 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 5: How Many Groups? Part 2
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-5/index.html
+
+======================================================================
+
+Lesson 5
+How Many Groups? (Part 2)
+Let’s use blocks and diagrams to understand more about division with fractions.
+Learning Targets:
+I can find how many groups there are when the number of groups and the amount in each group are not whole numbers.
+5.1
+Reasoning with Fraction Strips
+Write a fraction or whole number as an answer for each question. If you get stuck, use the fraction strips. Be prepared to share your strategy.
+How many
+1/2
+s are in 2?
+How many
+1/5
+s are in 3?
+How many
+1/8
+s are in
+11/4
+?
+1 ÷ 2/6 = {?}
+2 ÷ 2/9 = {?}
+4 ÷ 2/10 = {?}
+[Image description: “”]
+5.2
+More Reasoning with Pattern Blocks
+Use the pattern blocks in the applet to answer the questions. (If you need help aligning the pieces, you can turn on the grid.)
+open applet in presentation mode
+If the trapezoid represents 1 whole, what do each of the following shapes represent? Be prepared to show or explain your reasoning.
+1 triangle
+1 rhombus
+1 hexagon
+Use pattern blocks to represent each multiplication equation. Use the trapezoid to represent 1 whole.
+3 · 1/3=1
+3 · 2/3=2
+Diego and Jada were asked “How many rhombuses are in a trapezoid?”
+Diego says, “
+11/3
+. If I put 1 rhombus on a trapezoid, the leftover shape is a triangle, which is
+1/3
+of the trapezoid.”
+Jada says, “I think it’s
+11/2
+. Since we want to find out ‘how many rhombuses,’ we should compare the leftover triangle to a rhombus. A triangle is
+1/2
+of a rhombus.”
+Select
+all
+equations that can be used to answer the question: “How many rhombuses are in a trapezoid?”
+2/3 ÷ {?} = 1
+{?} · 2/3 = 1
+1 ÷ 2/3 = {?}
+1 · 2/3 = {?}
+{?} ÷ 2/3 = 1
+5.3
+Drawing Diagrams to Show Equal-sized Groups
+For each situation, draw a diagram for the relationship of the quantities to help you answer the question. Then write a multiplication equation or a division equation for the relationship. Be prepared to share your reasoning.
+The distance around a park is
+3/2
+miles. Noah rode his bicycle around the park for a total of 3 miles. How many times around the park did he ride?
+You need
+3/4
+yard of ribbon for one gift box. You have 3 yards of ribbon. How many gift boxes do you have ribbon for?
+The water hose fills a bucket at
+1/3
+gallon per minute. How many minutes does it take to fill a 2-gallon bucket?
+Are you ready for more?
+How many heaping teaspoons are in a heaping tablespoon? How would the answer depend on the shape of the spoons?
+Lesson 5 Summary
+Suppose one batch of cookies requires
+2/3
+cup flour. How many batches can be made with 4 cups of flour?
+We can think of the question as being: “How many
+2/3
+s are in 4?” and represent it using multiplication and division equations.
+{?} · 2/3 = 4
+4÷ 2/3 = {?}
+Let’s use pattern blocks to visualize the situation and say that a hexagon is 1 whole.
+[Image description: 4 hexagons are divided into 3 parallelograms]
+Since 3 rhombuses make a hexagon, 1 rhombus represents
+1/3
+and 2 rhombuses represent
+2/3
+. We can see that 6 pairs of rhombuses make 4 hexagons, so there are 6 groups of
+2/3
+in 4.
+Other kinds of diagrams can also help us reason about equal-sized groups involving fractions. This example shows how we might reason about the same question from above: “How many
+2/3
+-cups are in 4 cups?”
+[Image description: A diagram showing the breakdown of cups into groups]
+We can see each “cup” partitioned into thirds, and that there are 6 groups of
+2/3
+-cup in 4 cups. In both diagrams, we see that the unknown value (or the “?” in the equations) is 6. So we can now write:
+6 · 2/3 = 4
+4÷ 2/3 = 6
+Lesson 5 Practice Problems
+Use the tape diagram to represent and find the value of
+1/2÷1/3
+.
+Mark up and label the diagram as needed.
+[Image description: A tape diagram on a square grid is composed of 6 squares and is partitioned into two equal parts. Each part is partitioned by a vertical dashed line resulting in three equal parts. A brace extends from the beginning of the first part to the end of the first part and is labeled "one half".]
+What is the value of
+1/2÷1/3
+? Use pattern blocks to represent and find this value. The yellow hexagon represents 1 whole. Explain or show your reasoning.
+[Image description: Four pattern blocks: One large yellow hexagon, one blue rhombus, one red trapezoid, and one green triangle.]
+Use a standard inch ruler to answer each question. Then, write a multiplication equation and a division equation that answer the question.
+How many
+1/2
+s are in 7?
+How many
+3/8
+s are in 6?
+How many
+5/16
+s are in
+17/8
+?
+[Image description: an image of a ruler in inches and centimeters]
+Use the tape diagram to represent and answer the question: How many
+2/5
+s are in
+11/2
+?
+Mark up and label the diagram as needed.
+[Image description: A tape diagram of two equal parts on a square grid. Each part is composed of 5 squares. A brace from the beginning of the diagram to the middle of the eighth square is labeled "one and one half."]
+Write a multiplication equation and a division equation to represent each question, statement, or diagram.
+There are 12 fourths in 3.
+[Image description: A tape diagram of 4 equal parts with each part labeled one half. Above the diagram is a brace, labeled 2, that contains all 4 parts.]
+How many
+2/3
+s are in 6?
+[Image description: The number 2 is broken into 5 pieces]
+At a farmer’s market, two vendors sell fresh milk. One vendor sells 2 liters for
+$
+3.80, and another vendor sells 1.5 liters for
+$
+2.70. Which is the better deal? Explain your reasoning.
+A recipe uses 5 cups of flour for every 2 cups of sugar.
+How much sugar is used for 1 cup of flour?
+How much flour is used for 1 cup of sugar?
+How much flour is used with 7 cups of sugar?
+How much sugar is used with 6 cups of flour?

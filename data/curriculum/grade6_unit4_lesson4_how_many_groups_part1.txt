@@ -1,0 +1,131 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 4: How Many Groups? Part 1
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-4/index.html
+
+======================================================================
+
+Lesson 4
+How Many Groups? (Part 1)
+Let’s play with blocks and diagrams to think about division with fractions.
+Learning Targets:
+I can find how many groups there are when the amount in each group is not a whole number.
+I can use diagrams and multiplication and division equations to represent “how many groups?” questions.
+4.1
+Equal-sized Groups
+Write a multiplication equation and a division equation for each statement or diagram.
+Eight
+$
+5 bills are worth
+$
+40.
+There are 9 thirds in 3 ones.
+[Image description: A tape diagram of 5 equal parts. Each part is labeled one fifth. Above the bar is a bracket, labeled 1, that spans the entire length of the bar.]
+4.2
+Reasoning with Pattern Blocks
+Use the pattern blocks in the applet to answer the questions. (If you need help aligning the pieces, you can turn on the grid.)
+open applet in presentation mode
+If a hexagon represents 1 whole, what fraction do each of the following shapes represent? Be prepared to show or explain your reasoning.
+1 triangle
+1 rhombus
+1 trapezoid
+4 triangles
+3 rhombuses
+2 hexagons
+1 hexagon and 1 trapezoid
+Here are Elena’s diagrams for
+2 · 1/2 = 1
+and
+6 · 1/3 = 2
+. Do you think these diagrams represent the equations? Explain or show your reasoning.
+[Image description: “”]
+Use pattern blocks to represent each multiplication equation. Recall that a hexagon represents 1 whole.
+3 · 1/6=1/2
+2 · 3/2=3
+Answer the following questions. If you get stuck, use pattern blocks.
+How many
+1/2
+s are in 4?
+How many
+2/3
+s are in 2?
+How many
+1/6
+s are in
+11/2
+?
+Lesson 4 Summary
+Some problems that involve equal-sized groups also involve fractions. Here is an example: “How many
+1/6
+s are in 2?” We can express this question with multiplication and division equations.
+{?} · 1/6 = 2
+2 ÷ 1/6 = {?}
+Pattern-block diagrams can help us make sense of such problems. Here is a set of pattern blocks.
+[Image description: Four pattern blocks: One large yellow hexagon, one blue rhombus, one red trapezoid, and one green triangle.]
+If the hexagon represents 1 whole, then a triangle must represent
+1/6
+, because 6 triangles make 1 hexagon. We can use the triangle to represent the
+1/6
+in the problem.
+[Image description: 2 hexagons are divided into 6 triangles each]
+Twelve triangles make 2 hexagons, which means there are 12 groups of
+1/6
+in 2.
+If we write the 12 in the place of the “?” in the original equations, we have:
+12 · 1/6 = 2
+2 ÷ 1/6 = 12
+Lesson 4 Practice Problems
+A shopper buys cat food in bags of 3 lbs. Her cat eats
+3/4
+lb each week. How many weeks does one bag last?
+Draw a diagram to represent the situation and label your diagram so it can be followed by others. Answer the question.
+Write a multiplication or division equation to represent the situation.
+Multiply your answer in the first question (the number of weeks) by
+3/4
+. Did you get 3 as a result? If not, revise your previous work.
+Use the diagram to answer the question: How many
+1/3
+s are in
+12/3
+? The hexagon represents 1 whole. Explain or show your reasoning.
+[Image description: A diagram of two figures made of pattern blocks. The figure on the left is of one yellow hexagon and the figure on the right is of two blue rhombuses alinged along one vertical side.]
+Which question can be represented by the equation
+{?}· 1/8=3
+?
+How many 3s are in
+1/8
+?
+What is 3 groups of
+1/8
+?
+How many
+1/8
+s are in 3?
+What is
+1/8
+of 3?
+Write two division equations for each multiplication equation.
+15· 2/5 = 6
+6 · 4/3 = 8
+16· 7/8 = 14
+Noah and his friends are going to an amusement park. The total cost of admission for 8 students is
+$
+100, and all students share the cost equally. Noah brought
+$
+13 for his ticket. Did he bring enough money to get into the park? Explain your reasoning.
+Write a division expression with a quotient that is:
+greater than
+8 ÷ 0.001
+less than
+8 ÷ 0.001
+between
+8 ÷ 0.001
+and
+8 ÷ 1/10
+Find each unknown number.
+12 is 150% of what number?
+5 is 50% of what number?
+10% of what number is 300?
+5% of what number is 72?
+20 is 80% of what number?

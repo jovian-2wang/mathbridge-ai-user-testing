@@ -1,0 +1,194 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 15: Volume of Prisms
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-15/index.html
+
+======================================================================
+
+Lesson 15
+Volume of Prisms
+Let’s look at the volume of prisms that have fractional measurements.
+Learning Targets:
+I can solve volume problems that involve fractions.
+15.1
+A Box of Cubes
+How many cubes with an edge length of 1 inch fill this box?
+[Image description: A rectangular prism that represents a box. The horizontal edge length is labeled 10 inches, the vertical edge length is labeled 4 inches, and the bottom, right edge length of the box is labeled 3 inches.]
+If the cubes had an edge length of 2 inches, would more or fewer cubes be needed to fill the box? Explain how you know.
+If the cubes had an edge length of
+1/2
+inch, would more or fewer cubes be needed to fill the box? Explain how you know.
+15.2
+Cubes with Fractional Edge Lengths
+Diego correctly points out that 108 cubes with an edge length of
+1/3
+inch are needed to fill a rectangular prism that is 3 inches by 1 inch by
+11/3
+inch. Explain or show how this is true. Draw a sketch, if needed.
+What is the volume, in cubic inches, of the rectangular prism? Show your reasoning.
+Lin and Noah are packing small cubes into a cube with an edge length of
+11/2
+inches. Lin is using cubes with an edge length of
+1/2
+inch, and Noah is using cubes with an edge length of
+1/4
+inch.
+Who would need more cubes to fill the
+11/2
+-inch cube? Show how you know.
+If Lin and Noah use their small cubes to find the volume of the
+11/2
+-inch cube, would they get the same value? Explain or show your reasoning.
+15.3
+Fish Tank and Baking Pan
+A fish tank in a nature center has the shape of a rectangular prism. The tank is 10 feet long,
+81/4
+feet wide, and 6 feet tall.
+What is the volume of the tank in cubic feet? Explain or show your reasoning.
+[Image description: an image of an aquarium]
+“Aquarium récifal”
+by
+Serge Talfer
+via
+Wikimedia Commons
+.
+Public Domain
+.
+The caretaker of the center filled
+4/5
+of the tank with water. What was the volume of the water in the tank in cubic feet? What was the height of the water in the tank? Explain or show your reasoning.
+One day, the tank was filled with 330 cubic feet of water. The height of the water was what fraction of the height of the tank? Show your reasoning.
+Clare’s recipe for banana bread won’t fit in her favorite pan. The pan is
+81/2
+inches by 11 inches by 2 inches. The batter fills the pan to the very top, and when baking, the batter spills over the sides. To avoid spills, there should be about an inch between the top of the batter and the rim of the pan. Clare has another pan that is 9 inches by 9 inches by
+21/2
+inches. If she uses this pan, will the batter spill over during baking?
+Are you ready for more?
+Find the area of a rectangle with side lengths
+1/2
+and
+2/3
+.
+Find the volume of a rectangular prism with side lengths
+1/2
+,
+2/3
+, and
+3/4
+.
+What do you think happens if we keep multiplying fractions
+1/2· 2/3· 3/4· 4/5· 5/6...
+?
+Find the area of a rectangle with side lengths
+1/1
+and
+2/1
+.
+Find the volume of a rectangular prism with side lengths
+1/1
+,
+2/1
+, and
+1/3
+.
+What do you think happens if we keep multiplying fractions
+1/1· 2/1 · 1/3· 4/1· 1/5...
+?
+Lesson 15 Summary
+If a rectangular prism has edge lengths
+a
+units,
+b
+units, and
+c
+units, the volume is the product of
+a
+,
+b
+, and
+c
+.
+V = a · b · c
+This means that if we know the
+volume
+and
+two edge lengths
+, we can divide to find the
+third
+edge length.
+Suppose the volume of a rectangular prism is
+4001/2
+cm
+3
+, one edge length is
+11/2
+cm, another is
+6
+cm, and the third edge length is unknown. We can write a multiplication equation to represent the situation:
+11/2 · 6 · {?} = 4001/2
+We can find the third edge length by dividing:
+4001/2 ÷ ≤ft( 11/2 · 6 ) = {?}
+Lesson 15 Practice Problems
+A pool in the shape of a rectangular prism is being filled with water. The length and width of the pool is 24 feet and 15 feet. If the height of the water in the pool is
+11/3
+feet, what is the volume of the water in cubic feet?
+A rectangular prism measures
+22/5
+inches by
+31/5
+inches by 2 inches.
+Priya said, “It takes more cubes with edge length
+2/5
+inch than cubes with edge length
+1/5
+inch to pack the prism.” Do you agree with Priya’s statement? Explain or show your reasoning.
+How many cubes with edge length
+1/5
+inch fit in the prism? Show your reasoning.
+Explain how you can use your answer in the previous question to find the volume of the prism in cubic inches.
+Here is a right triangle. What is its area?
+What is the height
+h
+for the base that is
+5/4
+units long? Show your reasoning.
+[Image description: A right triangle with a horizontal base on the bottom is labeled five fourths. One side is labeled three fourths and the other side is labeled 1. A vertical dashed line is drawn from the right angle to the horizontal base and labeled h.]
+To give their animals essential minerals and nutrients, farmers and ranchers often have a block of salt—called “salt lick”—available for their animals to lick.
+A rancher is ordering a box of cube-shaped salt licks. The edge lengths of each salt lick are
+5/12
+foot. Is the volume of one salt lick greater or less than 1 cubic foot? Explain your reasoning.
+[Image description: an image of Salt-lick 4 beentree]
+“Salt-lick 4 beentree”
+by
+Beentree
+via
+Wikimedia Commons
+.
+CC BY-SA 2.5
+.
+The box that contains the salt lick is
+11/4
+feet by
+12/3
+feet by
+5/6
+feet. How many cubes of salt lick fit in the box? Explain or show your reasoning.
+How many groups of
+1/3
+inch are in
+3/4
+inch?
+How many inches are in
+12/5
+groups of
+12/3
+inches?
+Here is a table that shows the ratio of flour to water in an art paste. Complete the table with values in equivalent ratios.
+cups of flour
+cups of water
+1
+1/2
+4
+3
+1/2

@@ -1,0 +1,191 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 7: What Fraction of a Group?
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-7/index.html
+
+======================================================================
+
+Lesson 7
+What Fraction of a Group?
+Let’s think about dividing things into groups when we can’t even make one whole group.
+Learning Targets:
+I can tell when a question is asking for the number of groups and that number is less than 1.
+I can use diagrams and multiplication and division equations to represent and answer “what fraction of a group?” questions.
+7.1
+Estimating a Fraction of a Number
+Estimate the following quantities:
+What is
+1/3
+of 7?
+What is
+4/5
+of
+92/3
+?
+What is
+24/7
+of
+101/9
+?
+Write a multiplication expression for each question.
+7.2
+Fractions of Ropes
+The segments in the applet represent 4 different lengths of rope. Compare one rope to another, moving the rope by dragging the open circle at one endpoint. You can use the yellow pins to mark off lengths.
+open applet in presentation mode
+Compare the lengths of rope B, C, and D to the length of rope A and complete each statement. Then, use the measurements shown on the grid to write a multiplication equation and a division equation for each statement.
+Rope B is _______ times as long as rope A.
+Multiplication equation: _________________
+Division equation: _________________
+Rope C is _______ times as long as rope A.
+Multiplication equation: _________________
+Division equation: _________________
+Rope D is _______ times as long as rope A.
+Multiplication equation: _________________
+Division equation: _________________
+Each equation can be used to answer a question about rope C and D. What could each question be?
+{?} · 3=9
+and
+9 ÷ 3={?}
+{?} · 9=3
+and
+3 ÷ 9= {?}
+7.3
+Fractional Batches of Ice Cream
+One batch of an ice cream recipe uses 9 cups of milk. A chef makes different amounts of ice cream on different days. Here are the amounts of milk she used:
+Monday: 12 cups
+Tuesday:
+22 1/2
+cups
+Thursday: 6 cups
+Friday:
+7 1/2
+cups
+How many batches of ice cream did she make on each of the following days? Write a division equation and draw a tape diagram for the question about each day. Then answer the question.
+Monday
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+Tuesday
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+What fraction of a batch of ice cream did she make on each of the following days? Write a division equation and draw a tape diagram for the question about each day. Then answer the question.
+Thursday
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+Friday
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+Write a division equation, and draw a tape diagram for each question. Then answer the question.
+What fraction of 9 is 3?
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+What fraction of 5 is
+1/2
+?
+[Image description: A blank grid with a height of 5 units and a length of 24 units.]
+Lesson 7 Summary
+It is natural to think about groups when we have more than one group, but we can also have a
+fraction of a group
+.
+To find the amount in a fraction of a group, we can multiply the fraction by the amount in the whole group. If a bag of rice weighs 5 kg,
+3/4
+of a bag would weigh (
+3/4 · 5)
+kg.
+[Image description: A diagram showing kilograms and bags]
+Sometimes we need to find what fraction of a group an amount is. Suppose a full bag of flour weighs 6 kg. A chef used 3 kg of flour. What fraction of a full bag was used? In other words, what fraction of 6 kg is 3 kg?
+This question can be represented by a multiplication equation and a division equation, as well as by a diagram.
+{?} · 6 = 3
+3÷ 6 = {?}
+[Image description: A tape diagram of 6 equal parts. Above the diagram, a brace from the beginning of the diagram to the end of the diagram is labeled "6 kilograms."Below the diagram, a brace from the beginning of the diagram to the end of the diagram is labeled 1 bag. A third brace that contains the first three parts is labeled "three ." Below the diagram, a fourth brace which also contains the first three parts is labeled "question mark bag."]
+We can see from the diagram that 3 is
+1/2
+of 6, and we can check this answer by multiplying:
+1/2 · 6 = 3
+.
+In
+any
+situation where we want to know what fraction one number is of another number, we can write a division equation to help us find the answer.
+For example, “What fraction of 3 is
+21/4
+?” can be expressed as
+{?} · 3 = 21/4
+, which can also be written as
+21/4÷ 3 = {?}
+.
+The answer to “What is
+21/4 ÷ 3
+?” is also the answer to the original question.
+[Image description: A diagram showing cups and groups]
+The diagram shows that 3 wholes contain 12 fourths, and
+21/4
+contains 9 fourths, so the answer to this question is
+9/12
+, which is equivalent to
+3/4
+.
+We can use diagrams to help us solve other division problems that require finding a fraction of a group. For example, here is a diagram to help us answer the question: “What fraction of
+9/4
+is
+3/2
+?,” which can be written as
+3/2 ÷ 9/4 = {?}
+.
+[Image description: A diagram showing the breakdown of 2.25 into groups]
+We can see that the quotient is
+6/9
+, which is equivalent to
+2/3
+. To check this, let’s multiply.
+2/3 · 9/4 = 18/12
+, and
+18/12
+is, indeed, equal to
+3/2
+.
+Lesson 7 Practice Problems
+A recipe calls for
+1/2
+lb of flour for 1 batch. How many batches can be made with each of the following amounts?
+1 lb
+3/4
+lb
+1/4
+lb
+Whiskers the cat weighs
+22/3
+kg. Piglio weighs
+4
+kg. For each question, write a multiplication and a division equation, decide whether the answer is greater or less than 1, and then answer the question.
+How many times as heavy as Piglio is Whiskers?
+How many times as heavy as Whiskers is Piglio?
+Andre is walking from home to a festival that is
+15/8
+kilometers away. He takes a quick rest after walking
+1/3
+kilometers. In this situation, which question can be represented by the equation:
+{?} · 15/8 = 1/3
+?
+What fraction of the trip has Andre completed?
+How many more kilometers does he have to walk to get to the festival?
+What fraction of the trip is left?
+How many kilometers is it from home to the festival and back home?
+Draw a tape diagram to represent and answer the question: What fraction of
+21/2
+is
+4/5
+?
+How many groups of
+3/4
+are in each of the following quantities?
+11/4
+61/2
+Which question can be represented by the equation
+4÷ 2/7 = {?}
+What is 4 groups of
+2/7
+?
+How many
+2/7
+s are in 4?
+What is
+2/7
+of 4?
+How many 4s are in
+2/7
+?

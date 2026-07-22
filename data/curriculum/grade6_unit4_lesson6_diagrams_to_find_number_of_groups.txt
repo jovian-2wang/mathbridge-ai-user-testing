@@ -1,0 +1,149 @@
+Open Up Resources 6-8 Math
+Grade 6, Unit 4: Dividing Fractions
+Lesson 6: Diagrams to Find the Number of Groups
+Resource Type: Student Curriculum
+Source: https://access.openupresources.org/curricula/our6-8math/en/grade-6/unit-4/lesson-6/index.html
+
+======================================================================
+
+Lesson 6
+Using Diagrams to Find the Number of Groups
+Let’s draw tape diagrams to think about division with fractions.
+Learning Targets:
+I can use a tape diagram to represent equal-sized groups and find the number of groups.
+6.1
+How Many of These in That?
+We can think of the division expression
+10 ÷ 21/2
+as the answer to the question: “How many groups of
+21/2
+are in 10?” Complete the tape diagram to represent the question. Then answer the question.
+[Image description: 10 units are shown on a grid]
+Complete the tape diagram to represent the question: “How many groups of 2 are in 7?” Then answer the question.
+[Image description: 7 units are shown on a grid]
+6.2
+Representing Groups of Fractions with Tape Diagrams
+To make sense of the question “How many
+2/3
+s are in 1?,” Andre wrote equations and drew a tape diagram.
+{?} · 2/3 = 1
+1 ÷ 2/3 = {?}
+[Image description: A tape diagram with three equal parts. The first two parts are shaded and are each labeled one third. Above the tape diagram is a bracket labeled 1, and contains all three parts. Below the diagram there is a bracket labeled "1 group of two thirds," and contains the first two parts.]
+In an earlier task, we used pattern blocks to help us solve the equation
+1 ÷ 2/3 = {?}
+. Explain how Andre’s tape diagram can also help us solve the equation.
+Write a multiplication equation and a division equation for each of the following questions. Draw a tape diagram to find the solution. Use the grid to help you draw, if needed.
+How many
+3/4
+s are in 1?
+[Image description: A blank grid with a height of 7 units and length of 16 units.]
+How many
+2/3
+s are in 3?
+[Image description: A blank grid with a height of 7 units and length of 16 units.]
+How many
+3/2
+s are in 5?
+[Image description: A blank grid with a height of 7 units and length of 16 units.]
+6.3
+Finding Number of Groups
+For each question, draw a diagram to show the relationship of the quantities and to help you answer the question. Then, write a multiplication equation or a division equation for the situation described in the question. Be prepared to share your reasoning.
+How many
+3/8
+-inch thick books make a stack that is 6 inches tall?
+How many groups of
+1/2
+pound are in
+23/4
+pounds?
+Write a question that can be represented by the division equation
+5 ÷ 11/2 = {?}
+. Then answer the question. Show your reasoning.
+Lesson 6 Summary
+A baker used 2 kilograms of flour to make several batches of a pastry recipe. The recipe called for
+2/5
+kilogram of flour per batch. How many batches did she make?
+We can think of the question as: “How many groups of
+2/5
+kilogram make 2 kilograms?” and represent that question with the equations:
+{?} · 2/5=2
+2 ÷ 2/5 = {?}
+To help us make sense of the question, we can draw a tape diagram. This diagram shows 2 whole kilograms, with each kilogram partitioned into fifths.
+[Image description: A diagram showing kilograms and batches]
+We can see there are 5 groups of
+2/5
+in 2. Multiplying 5 and
+2/5
+allows us to check this answer:
+5 · 2/5 = 10/5
+and
+10/5 = 2
+, so the answer is correct.
+Notice the number of groups that result from
+2 ÷ 2/5
+is a whole number. Sometimes the number of groups we find from dividing may not be a whole number. Here is an example:
+Suppose one serving of rice is
+3/4
+cup. How many servings are there in
+31/2
+cups?
+[Image description: A diagram showing cups and servings]
+{?}· 3/4 = 31/2
+31/2 ÷ 3/4 = {?}
+Looking at the diagram, we can see there are 4 full groups of
+3/4
+, plus 2 fourths. If 3 fourths make a whole group, then 2 fourths make
+2/3
+of a group. So the number of servings (the “?” in each equation) is
+42/3
+. We can check this by multiplying
+42/3
+and
+3/4
+.
+42/3 · 3/4 = 14/3 · 3/4
+, and
+14/3 · 3/4 = 14/4
+, which is indeed equivalent to
+31/2
+.
+Lesson 6 Practice Problems
+We can think of
+3÷ 1/4
+as the answer to the question “How many groups of
+1/4
+are in 3?” Draw a tape diagram to represent the question. Then answer the question.
+Describe how to draw a tape diagram to represent and answer
+3 ÷ 3/5 = {?}
+for a friend who was absent.
+How many groups of
+1/2
+days are in 1 week?
+Write a multiplication equation or a division equation to represent the question.
+Draw a tape diagram to show the relationship between the quantities and to answer the question. Use graph paper, if needed.
+Diego said that the answer to the question “How many groups of
+5/6
+are in 1?” is
+6/5
+or
+11/5
+. Do you agree with his statement? Explain or show your reasoning.
+Select
+all
+equations that can represent the question: “How many groups of
+4/5
+are in 1?”
+{?} · 1=4/5
+1 · 4/5 = {?}
+4/5 ÷ 1 = {?}
+{?} · 4/5 =1
+1÷ 4/5 = {?}
+Calculate each percentage mentally.
+What is 10% of 70?
+What is 10% of 110?
+What is 25% of 160?
+What is 25% of 48?
+What is 50% of 90?
+What is 50% of 350?
+What is 75% of 300?
+What is 75% of 48?
