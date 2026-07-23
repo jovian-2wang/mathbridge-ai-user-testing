@@ -808,8 +808,6 @@ def render_user_panel():
                     child_names.append(str(child))
             st.write(f"**Linked child:** {', '.join(child_names)}")
 
-        if st.button("Log out", use_container_width=True, key="sidebar_logout"):
-            _delete_auth_cookie()
+        if st.sidebar.button("Log out", key="sidebar_logout"):
             _clear_app_login_state()
-            st.session_state["_mathbridge_logout_pending"] = True
-            st.rerun()
+        st.rerun()
