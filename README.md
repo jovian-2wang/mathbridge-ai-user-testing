@@ -6,7 +6,7 @@ This version is prepared for user testing. Students, parents, and teachers are w
 
 ## Testing Link
  
-https://mathbridge-ai-user-testing-2q65u2nsypmstgu8dfur7h.streamlit.app
+(https://mathbridge-ai-user-testing-kxnpfqdx5vvzhyzuvhrnmw.streamlit.app/)
 
 ## Who can use it?
 
