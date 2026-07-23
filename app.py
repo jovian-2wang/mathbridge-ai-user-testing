@@ -15,7 +15,21 @@ from ui import (
     teacher,
 )
 
+import sys
 
+
+st.sidebar.caption(
+    f"Python: {sys.version.split()[0]} | "
+    f"Streamlit: {st.__version__}"
+)
+
+st.sidebar.caption(
+    f"Model: {os.getenv('MODEL_NAME', 'not set')}"
+)
+
+st.sidebar.caption(
+    f"Visual planner: {os.getenv('USE_LLM_VISUAL', 'not set')}"
+)
 VIEW_LABELS = {
     "landing": "Overview",
     "student": "Student Chat",
