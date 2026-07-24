@@ -744,8 +744,8 @@ def _coordinate_visual(problem: str) -> dict[str, Any] | None:
     origin_x = 360
     origin_y = 190
     spacing = 22
-    min_axis = -6
-    max_axis = 6
+    min_axis = -20
+    max_axis = 20
     x_min = origin_x + min_axis * spacing
     x_max = origin_x + max_axis * spacing
     y_min = origin_y - max_axis * spacing
