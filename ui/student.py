@@ -505,7 +505,7 @@ def render():
         student,
     )
 
-    col_chat, col_signals = st.columns([2.2, 1])
+    col_chat, col_signals = st.columns([3, 1], gap="large")
 
     with col_chat:
         signals = st.session_state.get("signals") or {}
